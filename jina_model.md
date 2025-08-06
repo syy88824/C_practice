@@ -93,11 +93,11 @@
       "XGBoost": xgb.XGBClassifier(use_label_encoder=False, eval_metric='mlogloss')
   }
   ```
-不同模型產生的 embedding 訓練出的分類器 accuracy :
-| 模型 | Logistic Regression | Random Forest | MLP Neural Network | XGBoost |
-|------|------|------|------|------|
-| `jinaai/jina-embeddings-v2-base-code` | 0.80 | 0.79 | 0.79 | 0.80 |
-| `microsoft/codebert-base` | 0.62 | 0.58 | 0.65 | 0.59 |
+- 不同模型產生的 embedding 訓練出的分類器 accuracy :
+  | 模型 | Logistic Regression | Random Forest | MLP Neural Network | XGBoost |
+  |------|------|------|------|------|
+  | `jinaai/jina-embeddings-v2-base-code` | 0.80 | 0.79 | 0.79 | 0.80 |
+  | `microsoft/codebert-base` | 0.62 | 0.58 | 0.65 | 0.59 |
 
 ## 6. 後續應用
 
@@ -106,4 +106,10 @@
   ```python
   X_train, X_test, y_train, y_test = train_test_split(X, y_encoded, test_size=0.2, random_state=42, stratify=y_encoded)
   ```
-
+- 訓練結果：
+  | 模型 | Accuracy (Testing set) | Accuracy (Cross-Validation) | Macro f1-score | Weighted f1-score |
+  |------|------|------|------|------|
+  | Logistic Regression | 0.80 | 0.7808 ± 0.0173 | 0.71 | 0.78 |
+  | Random Forest | 0.79 | 0.7749 ± 0.0163 | 0.70 | 0.78 |
+  | MLP Neural Network | 0.79 | 0.7814 ± 0.0132 | 0.71 | 0.79 |
+  | XGBoost | 0.80 | 0.7816 ± 0.0142 | 0.72 | 0.79 |
