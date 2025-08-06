@@ -10,18 +10,33 @@
 
 **malware**
 
-(預留malware的ins_clean的說明)
+- 如有大量重複的 disassembled text，只留五筆完全相同的資料
+- 以 **250 個 instructions** 為一個 chunk -> 避免一條 instruction 被分隔在兩個 chunks 中
 
 **goodware**
 
 以 **2048 tokens** 為單位，切成多個chunk
 
+### chunk 數據統計
+
+| 檔案總數 | 平均 chunk 數 | 最大 chunk 數 | 句子平均長度 |
+|----------|----------------|----------------|----------------|
+| xxxx     | xx             | xx             | xxxx tokens    |
+
 ## 3. 選用模型介紹：`jinaai/jina-embeddings-v2-base-code`
 
 ### 模型特性
-
+- 為sentence transformer
 - 支援語言：english, 前、後端程式語言, assembly
 - 特徵維度：768-dim
+- tokenizer切割：
+  ```text
+  Instruction: 'xor eax eax'
+  Decoded Tokens: ['<s>', 'xor', ' eax', ' eax', '</s>']
+  --------------------
+  Instruction: 'mov dword ptr esi + hex eax'
+  Decoded Tokens: ['<s>', 'mov', ' dword', ' ptr', ' esi', ' +', ' hex', ' eax', '</s>']
+  ```
 - encoding function :
   ```python
   for text_id, text in enumerate(assembly_list):
@@ -62,20 +77,16 @@
 | `microsoft/codebert-base` | github/CodeSearchNet | 以 masked LM 訓練，對自然語言友善 |
 | `Salesforce/codet5-base` | Code summarization, translation | seq2seq 模型，適用於生成任務 |
 
-- 固定若干個樣本（如每類 malware 隨機選取 5 個檔案）
-- 將這些樣本的所有 chunks 個別送入不同模型取得 embeddings
-- 將 embeddings 降維（t-SNE）後可視化於同一平面
-- 計算群內/群間距離、Silhouette score 等
   ### Embedding 分布特性分析
 
 - 降維畫圖
-- 評估指標：Silhouette Score, Cluster Visualization
+- 評估指標：Cluster Visualization
 
-### 分類任務評估
+### 下游任務評估 (分類效果)
 
 - 分類器：
    ```python
-  models_all = {
+  models = {
       "Logistic Regression": LogisticRegression(max_iter=300),
       "Random Forest": RandomForestClassifier(n_estimators=100),
       "MLP Neural Network": MLPClassifier(hidden_layer_sizes=(256,32,), max_iter=500, early_stopping=True),
@@ -90,10 +101,9 @@
 
 ## 6. 後續應用
 
-- 
+### 惡意程式辨識、惡意程式家族分類
+- 以 4:1 切割訓練集、測試集
+  ```python
+  X_train, X_test, y_train, y_test = train_test_split(X, y_encoded, test_size=0.2, random_state=42, stratify=y_encoded)
+  ```
 
-## 附錄：chunk 數據統計（擬填）
-
-| 檔案總數 | 平均 chunk 數 | 最大 chunk 數 | 句子平均長度 |
-|----------|----------------|----------------|----------------|
-| xxxx     | xx             | xx             | xxxx tokens    |
