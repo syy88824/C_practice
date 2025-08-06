@@ -76,7 +76,7 @@
 | 模型 | 訓練資料集 | max length |
 |------|------|------|
 | `jinaai/jina-embeddings-v2-base-code` | github-code、allenai/c4 | 8192 |
-| `microsoft/codebert-base` | github/CodeSearchNet | 以 masked LM 訓練，對自然語言友善 |
+| `microsoft/codebert-base` | github/CodeSearchNet | 512 |
 | `Salesforce/codet5-base` | Code summarization, translation | seq2seq 模型，適用於生成任務 |
 
   ### Embedding 分布特性分析
