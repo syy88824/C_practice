@@ -1,11 +1,11 @@
-# Hugging Face中的embedding model
+# Hugging Face中的encoder
 
 ## 1. 實驗目的
 
 將篩選後的 Windows PE 執行檔中的 `.text` 段進行 disassembly 後，使用 transformer-based embedding 模型對其 disassembled text 進行向量化，以利後續如家族分類等應用。
 
 ## 2. Chunk 切割策略
-
+### jina model
 由於 embedding 模型的輸入長度有限，我們將每個檔案的 disassembled text 切割為多個 chunk，並逐一產生 embedding。
 
 **malware**
@@ -17,11 +17,13 @@
 
 以 **2048 tokens** 為單位，切成多個chunk
 
-### chunk 數據統計
+**chunk 數據統計**
 
 | 檔案總數 | 平均 chunk 數 | 最大 chunk 數 | 句子平均長度 |
 |----------|----------------|----------------|----------------|
 | xxxx     | xx             | xx             | xxxx tokens    |
+
+### codebert model
 
 ## 3. 選用模型介紹：`jinaai/jina-embeddings-v2-base-code`
 
