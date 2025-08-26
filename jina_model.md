@@ -18,7 +18,7 @@
 以 **2048 tokens** 為單位，切成多個chunk
 
 **chunk 數據統計**
-每種label的unk比例
+
 | label | 檔案總數 (有多少資料被切成chunks) | 平均 chunk 數/檔 (μ±σ) | 最大 chunk 數 | unk比例 |
 |----------|----------|----------------|----------------|----------------|
 | xxxx     | xxxx     | xx             | xx             | xxxx tokens    |
@@ -77,12 +77,18 @@
 |------|------|------|
 | `jinaai/jina-embeddings-v2-base-code` | github-code、allenai/c4 | 8192 |
 | `microsoft/codebert-base` | github/CodeSearchNet | 512 |
-| `Salesforce/codet5-base` | Code summarization, translation | seq2seq 模型，適用於生成任務 |
+| `microsoft/unixcoder-base` | github/CodeSearchNet、allenai/c4 | 1024 |
 
   ### Embedding 分布特性分析
 
 - 降維畫圖
-- 評估指標：Cluster Visualization
+**`jinaai/jina-embeddings-v2-base-code`**
+
+**`microsoft/codebert-base`**
+
+**`microsoft/unixcoder-base`**
+  
+<img width="1347" height="587" alt="unnamed" src="https://github.com/user-attachments/assets/ca7d0f7d-45c0-48ed-b184-4ea73e053810" />
 
 ### 下游任務評估 (分類效果)
 
@@ -100,6 +106,7 @@
   |------|------|------|------|------|
   | `jinaai/jina-embeddings-v2-base-code` | 0.80 | 0.79 | 0.79 | 0.80 |
   | `microsoft/codebert-base` | 0.62 | 0.58 | 0.65 | 0.59 |
+  | `microsoft/unixcoder-base` | 0.49 | 0.50 | 0.50 | 0.52 |
 
 ## 6. 後續應用
 
