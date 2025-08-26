@@ -15,7 +15,7 @@
 
 **goodware**
 
-以 **2048 tokens** 為單位，切成多個chunk
+以 **1000 tokens** 為單位，切成多個chunk
 
 **chunk 數據統計**
 
