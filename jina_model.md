@@ -82,6 +82,7 @@
   ### Embedding 分布特性分析
 
 - 降維畫圖
+  
 **`jinaai/jina-embeddings-v2-base-code`**
 
 **`microsoft/codebert-base`**
