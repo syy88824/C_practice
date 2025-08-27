@@ -19,9 +19,42 @@
 
 **chunk 數據統計**
 
-| label | 檔案總數 (有多少資料被切成chunks) | 平均 chunk 數/檔 (μ±σ) | 最大 chunk 數 | unk比例 |
-|----------|----------|----------------|----------------|----------------|
-| xxxx     | xxxx     | xx             | xx             | xxxx tokens    |
+| label | 檔案總數 | 平均 chunk 數/檔 (μ±σ) | 最大 chunk 數 |
+| --------------------- | --------------------- | ------------------ | ---------- |
+| ADWARE.SCREENSAVER    | 33                    | 218.45 ± 129.66    | 371        |
+| TROJAN.GENERIC        | 27                    | 41.89 ± 70.85      | 249        |
+| DOWNLOADER.MORSTAR    | 24                    | 40.00 ± 0.00       | 40         |
+| TROJAN.AUTOIT         | 18                    | 35.89 ± 33.33      | 115        |
+| DOWNLOADER.LMN        | 17                    | 43.35 ± 12.56      | 48         |
+| TROJAN.LECNA          | 14                    | 26.14 ± 9.52       | 39         |
+| TROJAN.VBKRYPT        | 13                    | 1.31 ± 1.11        | 5          |
+| WORM.AUTOIT           | 11                    | 49.91 ± 44.11      | 99         |
+| WEBTOOLBAR.ZANGO      | 11                    | 228.18 ± 144.05    | 371        |
+| TROJAN.GRAFTOR        | 11                    | 61.73 ± 73.66      | 252        |
+| TROJAN.FAREIT         | 10                    | 156.30 ± 417.67    | 1336       |
+| EMAIL-WORM.MYDOOM     | 10                    | 27.50 ± 18.45      | 45         |
+| GOODWARE              | 9                     | 83.56 ± 25.27      | 100        |
+| TROJAN.AGENT          | 9                     | 75.78 ± 125.41     | 296        |
+| TROJAN.DOINA          | 9                     | 85.67 ± 38.15      | 105        |
+| TROJAN-SPY.ZBOT       | 7                     | 5.57 ± 9.09        | 26         |
+| ADWARE.GENERIC        | 6                     | 240.33 ± 99.61     | 281        |
+| DOWNLOADER.MEDIAGET   | 6                     | 252.83 ± 98.91     | 382        |
+| TROJAN.DUMP           | 6                     | 19.33 ± 7.03       | 29         |
+| TROJAN.BARYS          | 6                     | 80.00 ± 120.86     | 251        |
+| TROJAN.STRICTOR       | 6                     | 119.00 ± 130.05    | 375        |
+| TROJAN-PSW\.TEPFER    | 6                     | 15.67 ± 35.93      | 89         |
+| TROJAN-DROPPER.DINWOD | 6                     | 11.83 ± 2.86       | 13         |
+| TROJAN.ANDROM         | 6                     | 142.67 ± 134.87    | 375        |
+| TROJAN-RANSOM.BLOCKER | 6                     | 2.67 ± 4.08        | 11         |
+| TROJAN.ZBOT           | 6                     | 55.83 ± 102.51     | 257        |
+| TROJAN-DROPPER.ROXER  | 5                     | 105.00 ± 0.00      | 105        |
+| BACKDOOR.DARKKOMET    | 5                     | 1.00 ± 0.00        | 1          |
+| ADWARE.GATOR          | 5                     | 169.00 ± 0.00      | 169        |
+| TROJAN-DOWNLOADER.VB  | 5                     | 1.00 ± 0.00        | 1          |
+| TROJAN.MACHETE        | 5                     | 88.00 ± 0.00       | 88         |
+| VIRUS.LAMER           | 5                     | 1.00 ± 0.00        | 1          |
+| WORM.AUTORUN          | 5                     | 86.00 ± 0.00       | 86         |
+
 
 ### codebert model
 
