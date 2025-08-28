@@ -188,7 +188,7 @@
 
   ```
 - 訓練結果：
-- 
+  
   | 模型 | Accuracy (Testing set) | Accuracy (Cross-Validation) | Macro f1-score | Weighted f1-score |
   |------|------|------|------|------|
   | Logistic Regression | 0.80 | 0.7808 ± 0.0173 | 0.71 | 0.78 |
