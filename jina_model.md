@@ -140,7 +140,7 @@
   |------|------|------|------|------|
   | `jinaai/jina-embeddings-v2-base-code` | 0.80 | 0.79 | 0.79 | 0.80 |
   | `microsoft/codebert-base` | 0.62 | 0.58 | 0.65 | 0.59 |
-  | `microsoft/unixcoder-base` | 0.49 | 0.50 | 0.50 | 0.52 |
+  | `microsoft/unixcoder-base` | 0.65 | 0.60 | 0.64 | 0.61 |
 
 ## 6. 後續應用
 
