@@ -176,15 +176,15 @@
   ```python
   X_train_full, X_temp, y_train_full, y_temp = train_test_split(
     X, y, test_size=0.3, random_state=42, stratify=y)
-X_val, X_test, y_val, y_test = train_test_split(
-    X_temp, y_temp, test_size=2/3, random_state=42, stratify=y_temp)  
-# 0.3*2/3=0.2 → test 20%，val 10%
-
-# 標準化
-scaler = StandardScaler().fit(X_train_full)
-X_tr_s  = scaler.transform(X_train_full)
-X_val_s = scaler.transform(X_val)
-X_test_s = scaler.transform(X_test)
+  X_val, X_test, y_val, y_test = train_test_split(
+      X_temp, y_temp, test_size=2/3, random_state=42, stratify=y_temp)  
+  # 0.3*2/3=0.2 → test 20%，val 10%
+  
+  # 標準化
+  scaler = StandardScaler().fit(X_train_full)
+  X_tr_s  = scaler.transform(X_train_full)
+  X_val_s = scaler.transform(X_val)
+  X_test_s = scaler.transform(X_test)
 
   ```
 - 訓練結果：
