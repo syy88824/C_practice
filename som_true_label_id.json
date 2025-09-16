@@ -1,0 +1,5178 @@
+{
+  "title": "SOM neuron composition by true_label_id",
+  "som_size": 20,
+  "neurons": [
+    {
+      "row": 16,
+      "col": 9,
+      "counts": {
+        "0": 425
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 9,
+      "counts": {
+        "0": 860,
+        "18": 1
+      },
+      "proportions": {
+        "ADWARE.GATOR": 0.9988385598141696,
+        "TROJAN.BARYS": 0.0011614401858304297
+      }
+    },
+    {
+      "row": 14,
+      "col": 8,
+      "counts": {
+        "0": 620
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 7,
+      "counts": {
+        "0": 110,
+        "23": 1
+      },
+      "proportions": {
+        "ADWARE.GATOR": 0.990990990990991,
+        "TROJAN.GRAFTOR": 0.009009009009009009
+      }
+    },
+    {
+      "row": 14,
+      "col": 10,
+      "counts": {
+        "0": 50
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 9,
+      "counts": {
+        "0": 280
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 10,
+      "counts": {
+        "0": 15
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 8,
+      "counts": {
+        "0": 80
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 17,
+      "counts": {
+        "0": 5,
+        "1": 3,
+        "20": 2,
+        "22": 1,
+        "23": 1
+      },
+      "proportions": {
+        "ADWARE.GATOR": 0.4166666666666667,
+        "ADWARE.GENERIC": 0.25,
+        "TROJAN.DUMP": 0.16666666666666666,
+        "TROJAN.GENERIC": 0.08333333333333333,
+        "TROJAN.GRAFTOR": 0.08333333333333333
+      }
+    },
+    {
+      "row": 9,
+      "col": 14,
+      "counts": {
+        "0": 55,
+        "5": 2,
+        "18": 1,
+        "22": 11
+      },
+      "proportions": {
+        "ADWARE.GATOR": 0.7971014492753623,
+        "DOWNLOADER.MEDIAGET": 0.028985507246376812,
+        "TROJAN.BARYS": 0.014492753623188406,
+        "TROJAN.GENERIC": 0.15942028985507245
+      }
+    },
+    {
+      "row": 16,
+      "col": 8,
+      "counts": {
+        "0": 25,
+        "5": 3,
+        "22": 3
+      },
+      "proportions": {
+        "ADWARE.GATOR": 0.8064516129032258,
+        "DOWNLOADER.MEDIAGET": 0.0967741935483871,
+        "TROJAN.GENERIC": 0.0967741935483871
+      }
+    },
+    {
+      "row": 13,
+      "col": 8,
+      "counts": {
+        "0": 10
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 18,
+      "counts": {
+        "1": 1320,
+        "2": 1320
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.5,
+        "ADWARE.SCREENSAVER": 0.5
+      }
+    },
+    {
+      "row": 0,
+      "col": 19,
+      "counts": {
+        "1": 185,
+        "2": 180
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.5068493150684932,
+        "ADWARE.SCREENSAVER": 0.4931506849315068
+      }
+    },
+    {
+      "row": 3,
+      "col": 18,
+      "counts": {
+        "1": 220,
+        "2": 115
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.6567164179104478,
+        "ADWARE.SCREENSAVER": 0.34328358208955223
+      }
+    },
+    {
+      "row": 1,
+      "col": 16,
+      "counts": {
+        "1": 90,
+        "2": 95
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.4864864864864865,
+        "ADWARE.SCREENSAVER": 0.5135135135135135
+      }
+    },
+    {
+      "row": 0,
+      "col": 17,
+      "counts": {
+        "1": 185,
+        "2": 180
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.5068493150684932,
+        "ADWARE.SCREENSAVER": 0.4931506849315068
+      }
+    },
+    {
+      "row": 5,
+      "col": 19,
+      "counts": {
+        "1": 20,
+        "2": 69
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.2247191011235955,
+        "ADWARE.SCREENSAVER": 0.7752808988764045
+      }
+    },
+    {
+      "row": 2,
+      "col": 18,
+      "counts": {
+        "1": 210,
+        "2": 165
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.56,
+        "ADWARE.SCREENSAVER": 0.44
+      }
+    },
+    {
+      "row": 1,
+      "col": 15,
+      "counts": {
+        "1": 185,
+        "2": 182,
+        "15": 1
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.5027173913043478,
+        "ADWARE.SCREENSAVER": 0.4945652173913043,
+        "TROJAN.AGENT": 0.002717391304347826
+      }
+    },
+    {
+      "row": 3,
+      "col": 19,
+      "counts": {
+        "1": 125,
+        "2": 41
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.7530120481927711,
+        "ADWARE.SCREENSAVER": 0.2469879518072289
+      }
+    },
+    {
+      "row": 4,
+      "col": 19,
+      "counts": {
+        "1": 540
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 15,
+      "counts": {
+        "1": 70,
+        "2": 75
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.4827586206896552,
+        "ADWARE.SCREENSAVER": 0.5172413793103449
+      }
+    },
+    {
+      "row": 2,
+      "col": 16,
+      "counts": {
+        "1": 96,
+        "2": 105,
+        "30": 1
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.4752475247524752,
+        "ADWARE.SCREENSAVER": 0.5198019801980198,
+        "WEBTOOLBAR.ZANGO": 0.0049504950495049506
+      }
+    },
+    {
+      "row": 5,
+      "col": 17,
+      "counts": {
+        "1": 100,
+        "2": 85
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.5405405405405406,
+        "ADWARE.SCREENSAVER": 0.4594594594594595
+      }
+    },
+    {
+      "row": 4,
+      "col": 18,
+      "counts": {
+        "1": 145,
+        "2": 125
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.5370370370370371,
+        "ADWARE.SCREENSAVER": 0.46296296296296297
+      }
+    },
+    {
+      "row": 0,
+      "col": 14,
+      "counts": {
+        "1": 50,
+        "2": 55
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.47619047619047616,
+        "ADWARE.SCREENSAVER": 0.5238095238095238
+      }
+    },
+    {
+      "row": 4,
+      "col": 17,
+      "counts": {
+        "1": 75,
+        "2": 66,
+        "21": 1,
+        "31": 1
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.5244755244755245,
+        "ADWARE.SCREENSAVER": 0.46153846153846156,
+        "TROJAN.FAREIT": 0.006993006993006993,
+        "WORM.AUTOIT": 0.006993006993006993
+      }
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "counts": {
+        "1": 5,
+        "2": 27
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.15625,
+        "ADWARE.SCREENSAVER": 0.84375
+      }
+    },
+    {
+      "row": 0,
+      "col": 4,
+      "counts": {
+        "1": 10,
+        "2": 49
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.1694915254237288,
+        "ADWARE.SCREENSAVER": 0.8305084745762712
+      }
+    },
+    {
+      "row": 3,
+      "col": 17,
+      "counts": {
+        "1": 80,
+        "2": 5
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.9411764705882353,
+        "ADWARE.SCREENSAVER": 0.058823529411764705
+      }
+    },
+    {
+      "row": 1,
+      "col": 18,
+      "counts": {
+        "1": 25,
+        "2": 65
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.2777777777777778,
+        "ADWARE.SCREENSAVER": 0.7222222222222222
+      }
+    },
+    {
+      "row": 2,
+      "col": 8,
+      "counts": {
+        "1": 55,
+        "2": 109
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.3353658536585366,
+        "ADWARE.SCREENSAVER": 0.6646341463414634
+      }
+    },
+    {
+      "row": 0,
+      "col": 16,
+      "counts": {
+        "1": 110,
+        "2": 112
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.4954954954954955,
+        "ADWARE.SCREENSAVER": 0.5045045045045045
+      }
+    },
+    {
+      "row": 1,
+      "col": 17,
+      "counts": {
+        "1": 25,
+        "2": 25
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.5,
+        "ADWARE.SCREENSAVER": 0.5
+      }
+    },
+    {
+      "row": 1,
+      "col": 13,
+      "counts": {
+        "1": 10,
+        "2": 83,
+        "16": 4,
+        "19": 5,
+        "22": 3,
+        "26": 2,
+        "30": 3
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.09090909090909091,
+        "ADWARE.SCREENSAVER": 0.7545454545454545,
+        "TROJAN.ANDROM": 0.03636363636363636,
+        "TROJAN.DOINA": 0.045454545454545456,
+        "TROJAN.GENERIC": 0.02727272727272727,
+        "TROJAN.STRICTOR": 0.01818181818181818,
+        "WEBTOOLBAR.ZANGO": 0.02727272727272727
+      }
+    },
+    {
+      "row": 5,
+      "col": 18,
+      "counts": {
+        "1": 50,
+        "2": 34
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.5952380952380952,
+        "ADWARE.SCREENSAVER": 0.40476190476190477
+      }
+    },
+    {
+      "row": 4,
+      "col": 16,
+      "counts": {
+        "1": 41,
+        "2": 35,
+        "15": 2,
+        "30": 1,
+        "31": 1
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.5125,
+        "ADWARE.SCREENSAVER": 0.4375,
+        "TROJAN.AGENT": 0.025,
+        "WEBTOOLBAR.ZANGO": 0.0125,
+        "WORM.AUTOIT": 0.0125
+      }
+    },
+    {
+      "row": 6,
+      "col": 19,
+      "counts": {
+        "1": 30,
+        "2": 56
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.3488372093023256,
+        "ADWARE.SCREENSAVER": 0.6511627906976745
+      }
+    },
+    {
+      "row": 3,
+      "col": 7,
+      "counts": {
+        "1": 10,
+        "2": 200
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.047619047619047616,
+        "ADWARE.SCREENSAVER": 0.9523809523809523
+      }
+    },
+    {
+      "row": 3,
+      "col": 12,
+      "counts": {
+        "1": 5,
+        "2": 7,
+        "19": 1,
+        "21": 2,
+        "23": 1,
+        "24": 1
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.29411764705882354,
+        "ADWARE.SCREENSAVER": 0.4117647058823529,
+        "TROJAN.DOINA": 0.058823529411764705,
+        "TROJAN.FAREIT": 0.11764705882352941,
+        "TROJAN.GRAFTOR": 0.058823529411764705,
+        "TROJAN.LECNA": 0.058823529411764705
+      }
+    },
+    {
+      "row": 1,
+      "col": 19,
+      "counts": {
+        "1": 15,
+        "2": 60
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.2,
+        "ADWARE.SCREENSAVER": 0.8
+      }
+    },
+    {
+      "row": 2,
+      "col": 14,
+      "counts": {
+        "1": 5,
+        "2": 12,
+        "23": 3
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.25,
+        "ADWARE.SCREENSAVER": 0.6,
+        "TROJAN.GRAFTOR": 0.15
+      }
+    },
+    {
+      "row": 16,
+      "col": 19,
+      "counts": {
+        "1": 32,
+        "5": 4,
+        "16": 2,
+        "19": 2
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.8,
+        "DOWNLOADER.MEDIAGET": 0.1,
+        "TROJAN.ANDROM": 0.05,
+        "TROJAN.DOINA": 0.05
+      }
+    },
+    {
+      "row": 17,
+      "col": 19,
+      "counts": {
+        "1": 1,
+        "5": 720,
+        "22": 1
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.0013850415512465374,
+        "DOWNLOADER.MEDIAGET": 0.997229916897507,
+        "TROJAN.GENERIC": 0.0013850415512465374
+      }
+    },
+    {
+      "row": 19,
+      "col": 16,
+      "counts": {
+        "1": 63,
+        "19": 1,
+        "22": 5
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.9130434782608695,
+        "TROJAN.DOINA": 0.014492753623188406,
+        "TROJAN.GENERIC": 0.07246376811594203
+      }
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "counts": {
+        "1": 2,
+        "6": 101,
+        "15": 1,
+        "21": 3
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.018691588785046728,
+        "DOWNLOADER.MORSTAR": 0.9439252336448598,
+        "TROJAN.AGENT": 0.009345794392523364,
+        "TROJAN.FAREIT": 0.028037383177570093
+      }
+    },
+    {
+      "row": 18,
+      "col": 6,
+      "counts": {
+        "1": 6,
+        "11": 5,
+        "19": 68,
+        "21": 2,
+        "26": 1
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.07317073170731707,
+        "TROJAN-DROPPER.ROXER": 0.06097560975609756,
+        "TROJAN.DOINA": 0.8292682926829268,
+        "TROJAN.FAREIT": 0.024390243902439025,
+        "TROJAN.STRICTOR": 0.012195121951219513
+      }
+    },
+    {
+      "row": 10,
+      "col": 19,
+      "counts": {
+        "1": 1,
+        "19": 16
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.058823529411764705,
+        "TROJAN.DOINA": 0.9411764705882353
+      }
+    },
+    {
+      "row": 10,
+      "col": 0,
+      "counts": {
+        "1": 1,
+        "2": 3,
+        "12": 1,
+        "16": 15,
+        "17": 5,
+        "19": 5,
+        "20": 1,
+        "21": 4,
+        "22": 19,
+        "25": 5,
+        "26": 17
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.013157894736842105,
+        "ADWARE.SCREENSAVER": 0.039473684210526314,
+        "TROJAN-PSW.TEPFER": 0.013157894736842105,
+        "TROJAN.ANDROM": 0.19736842105263158,
+        "TROJAN.AUTOIT": 0.06578947368421052,
+        "TROJAN.DOINA": 0.06578947368421052,
+        "TROJAN.DUMP": 0.013157894736842105,
+        "TROJAN.FAREIT": 0.05263157894736842,
+        "TROJAN.GENERIC": 0.25,
+        "TROJAN.MACHETE": 0.06578947368421052,
+        "TROJAN.STRICTOR": 0.2236842105263158
+      }
+    },
+    {
+      "row": 2,
+      "col": 17,
+      "counts": {
+        "1": 60,
+        "2": 65
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.48,
+        "ADWARE.SCREENSAVER": 0.52
+      }
+    },
+    {
+      "row": 3,
+      "col": 6,
+      "counts": {
+        "1": 5,
+        "2": 105
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.045454545454545456,
+        "ADWARE.SCREENSAVER": 0.9545454545454546
+      }
+    },
+    {
+      "row": 2,
+      "col": 15,
+      "counts": {
+        "1": 50,
+        "2": 50
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.5,
+        "ADWARE.SCREENSAVER": 0.5
+      }
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "counts": {
+        "1": 10,
+        "2": 28
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 0.2631578947368421,
+        "ADWARE.SCREENSAVER": 0.7368421052631579
+      }
+    },
+    {
+      "row": 1,
+      "col": 8,
+      "counts": {
+        "2": 1934
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 9,
+      "counts": {
+        "2": 329
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 6,
+      "counts": {
+        "2": 167
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 5,
+      "counts": {
+        "2": 158
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 8,
+      "counts": {
+        "2": 202
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 7,
+      "counts": {
+        "2": 1052
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 9,
+      "counts": {
+        "2": 496
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 9,
+      "counts": {
+        "2": 783
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 13,
+      "counts": {
+        "2": 71,
+        "30": 2
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.9726027397260274,
+        "WEBTOOLBAR.ZANGO": 0.0273972602739726
+      }
+    },
+    {
+      "row": 1,
+      "col": 11,
+      "counts": {
+        "2": 171,
+        "22": 1
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.9941860465116279,
+        "TROJAN.GENERIC": 0.005813953488372093
+      }
+    },
+    {
+      "row": 1,
+      "col": 4,
+      "counts": {
+        "2": 81,
+        "16": 1,
+        "19": 1,
+        "26": 1,
+        "30": 11
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.8526315789473684,
+        "TROJAN.ANDROM": 0.010526315789473684,
+        "TROJAN.DOINA": 0.010526315789473684,
+        "TROJAN.STRICTOR": 0.010526315789473684,
+        "WEBTOOLBAR.ZANGO": 0.11578947368421053
+      }
+    },
+    {
+      "row": 0,
+      "col": 8,
+      "counts": {
+        "2": 360
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 10,
+      "counts": {
+        "2": 288
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 13,
+      "counts": {
+        "2": 12,
+        "6": 9,
+        "19": 2
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5217391304347826,
+        "DOWNLOADER.MORSTAR": 0.391304347826087,
+        "TROJAN.DOINA": 0.08695652173913043
+      }
+    },
+    {
+      "row": 0,
+      "col": 7,
+      "counts": {
+        "2": 124
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 12,
+      "counts": {
+        "2": 197
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 6,
+      "counts": {
+        "2": 99,
+        "30": 1
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.99,
+        "WEBTOOLBAR.ZANGO": 0.01
+      }
+    },
+    {
+      "row": 2,
+      "col": 10,
+      "counts": {
+        "2": 513
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 7,
+      "counts": {
+        "2": 287
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 9,
+      "counts": {
+        "2": 306,
+        "30": 1
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.996742671009772,
+        "WEBTOOLBAR.ZANGO": 0.003257328990228013
+      }
+    },
+    {
+      "row": 3,
+      "col": 10,
+      "counts": {
+        "2": 169
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 9,
+      "counts": {
+        "2": 40
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 6,
+      "counts": {
+        "2": 86,
+        "30": 22
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.7962962962962963,
+        "WEBTOOLBAR.ZANGO": 0.2037037037037037
+      }
+    },
+    {
+      "row": 1,
+      "col": 12,
+      "counts": {
+        "2": 95
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 11,
+      "counts": {
+        "2": 99,
+        "19": 1,
+        "30": 9
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.908256880733945,
+        "TROJAN.DOINA": 0.009174311926605505,
+        "WEBTOOLBAR.ZANGO": 0.08256880733944955
+      }
+    },
+    {
+      "row": 4,
+      "col": 7,
+      "counts": {
+        "2": 105,
+        "30": 1
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.9905660377358491,
+        "WEBTOOLBAR.ZANGO": 0.009433962264150943
+      }
+    },
+    {
+      "row": 9,
+      "col": 8,
+      "counts": {
+        "2": 1,
+        "5": 7,
+        "6": 6,
+        "12": 4,
+        "14": 3,
+        "15": 8,
+        "16": 21,
+        "17": 14,
+        "18": 9,
+        "19": 22,
+        "20": 4,
+        "21": 12,
+        "22": 18,
+        "23": 11,
+        "24": 2,
+        "26": 11,
+        "27": 1,
+        "30": 12,
+        "31": 1
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.005988023952095809,
+        "DOWNLOADER.MEDIAGET": 0.041916167664670656,
+        "DOWNLOADER.MORSTAR": 0.03592814371257485,
+        "TROJAN-PSW.TEPFER": 0.023952095808383235,
+        "TROJAN-SPY.ZBOT": 0.017964071856287425,
+        "TROJAN.AGENT": 0.04790419161676647,
+        "TROJAN.ANDROM": 0.12574850299401197,
+        "TROJAN.AUTOIT": 0.08383233532934131,
+        "TROJAN.BARYS": 0.05389221556886228,
+        "TROJAN.DOINA": 0.1317365269461078,
+        "TROJAN.DUMP": 0.023952095808383235,
+        "TROJAN.FAREIT": 0.0718562874251497,
+        "TROJAN.GENERIC": 0.10778443113772455,
+        "TROJAN.GRAFTOR": 0.0658682634730539,
+        "TROJAN.LECNA": 0.011976047904191617,
+        "TROJAN.STRICTOR": 0.0658682634730539,
+        "TROJAN.VBKRYPT": 0.005988023952095809,
+        "WEBTOOLBAR.ZANGO": 0.0718562874251497,
+        "WORM.AUTOIT": 0.005988023952095809
+      }
+    },
+    {
+      "row": 2,
+      "col": 19,
+      "counts": {
+        "2": 37
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 11,
+      "counts": {
+        "2": 111
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "counts": {
+        "2": 83
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 12,
+      "counts": {
+        "2": 45
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 10,
+      "counts": {
+        "2": 93
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 4,
+      "counts": {
+        "2": 5,
+        "16": 2,
+        "17": 49,
+        "19": 1,
+        "21": 2,
+        "31": 6
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.07692307692307693,
+        "TROJAN.ANDROM": 0.03076923076923077,
+        "TROJAN.AUTOIT": 0.7538461538461538,
+        "TROJAN.DOINA": 0.015384615384615385,
+        "TROJAN.FAREIT": 0.03076923076923077,
+        "WORM.AUTOIT": 0.09230769230769231
+      }
+    },
+    {
+      "row": 0,
+      "col": 11,
+      "counts": {
+        "2": 20
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 14,
+      "counts": {
+        "2": 105,
+        "5": 2,
+        "19": 1,
+        "20": 1,
+        "30": 72
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.580110497237569,
+        "DOWNLOADER.MEDIAGET": 0.011049723756906077,
+        "TROJAN.DOINA": 0.0055248618784530384,
+        "TROJAN.DUMP": 0.0055248618784530384,
+        "WEBTOOLBAR.ZANGO": 0.39779005524861877
+      }
+    },
+    {
+      "row": 0,
+      "col": 10,
+      "counts": {
+        "2": 46,
+        "30": 1
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.9787234042553191,
+        "WEBTOOLBAR.ZANGO": 0.02127659574468085
+      }
+    },
+    {
+      "row": 1,
+      "col": 5,
+      "counts": {
+        "2": 78,
+        "30": 44
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.639344262295082,
+        "WEBTOOLBAR.ZANGO": 0.36065573770491804
+      }
+    },
+    {
+      "row": 8,
+      "col": 1,
+      "counts": {
+        "2": 1,
+        "16": 60,
+        "22": 1,
+        "26": 60
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.00819672131147541,
+        "TROJAN.ANDROM": 0.4918032786885246,
+        "TROJAN.GENERIC": 0.00819672131147541,
+        "TROJAN.STRICTOR": 0.4918032786885246
+      }
+    },
+    {
+      "row": 4,
+      "col": 1,
+      "counts": {
+        "2": 290,
+        "30": 232
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5555555555555556,
+        "WEBTOOLBAR.ZANGO": 0.4444444444444444
+      }
+    },
+    {
+      "row": 4,
+      "col": 3,
+      "counts": {
+        "2": 555,
+        "30": 444
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5555555555555556,
+        "WEBTOOLBAR.ZANGO": 0.4444444444444444
+      }
+    },
+    {
+      "row": 6,
+      "col": 2,
+      "counts": {
+        "2": 235,
+        "30": 188
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5555555555555556,
+        "WEBTOOLBAR.ZANGO": 0.4444444444444444
+      }
+    },
+    {
+      "row": 5,
+      "col": 0,
+      "counts": {
+        "2": 510,
+        "30": 384
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5704697986577181,
+        "WEBTOOLBAR.ZANGO": 0.42953020134228187
+      }
+    },
+    {
+      "row": 3,
+      "col": 1,
+      "counts": {
+        "2": 76,
+        "30": 56
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5757575757575758,
+        "WEBTOOLBAR.ZANGO": 0.42424242424242425
+      }
+    },
+    {
+      "row": 5,
+      "col": 3,
+      "counts": {
+        "2": 313,
+        "30": 238
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5680580762250453,
+        "WEBTOOLBAR.ZANGO": 0.4319419237749546
+      }
+    },
+    {
+      "row": 6,
+      "col": 3,
+      "counts": {
+        "2": 121,
+        "30": 83
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5931372549019608,
+        "WEBTOOLBAR.ZANGO": 0.4068627450980392
+      }
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "counts": {
+        "2": 425,
+        "30": 289
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5952380952380952,
+        "WEBTOOLBAR.ZANGO": 0.40476190476190477
+      }
+    },
+    {
+      "row": 3,
+      "col": 0,
+      "counts": {
+        "2": 190,
+        "30": 152
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5555555555555556,
+        "WEBTOOLBAR.ZANGO": 0.4444444444444444
+      }
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "counts": {
+        "2": 1040,
+        "30": 832
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5555555555555556,
+        "WEBTOOLBAR.ZANGO": 0.4444444444444444
+      }
+    },
+    {
+      "row": 5,
+      "col": 4,
+      "counts": {
+        "2": 165,
+        "30": 132
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5555555555555556,
+        "WEBTOOLBAR.ZANGO": 0.4444444444444444
+      }
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "counts": {
+        "2": 82,
+        "19": 2,
+        "30": 60
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5694444444444444,
+        "TROJAN.DOINA": 0.013888888888888888,
+        "WEBTOOLBAR.ZANGO": 0.4166666666666667
+      }
+    },
+    {
+      "row": 1,
+      "col": 1,
+      "counts": {
+        "2": 102,
+        "5": 8,
+        "22": 1,
+        "30": 73
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5543478260869565,
+        "DOWNLOADER.MEDIAGET": 0.043478260869565216,
+        "TROJAN.GENERIC": 0.005434782608695652,
+        "WEBTOOLBAR.ZANGO": 0.3967391304347826
+      }
+    },
+    {
+      "row": 2,
+      "col": 1,
+      "counts": {
+        "2": 94,
+        "30": 62
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.6025641025641025,
+        "WEBTOOLBAR.ZANGO": 0.3974358974358974
+      }
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "counts": {
+        "2": 70,
+        "30": 50
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5833333333333334,
+        "WEBTOOLBAR.ZANGO": 0.4166666666666667
+      }
+    },
+    {
+      "row": 7,
+      "col": 3,
+      "counts": {
+        "2": 102,
+        "30": 75
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.576271186440678,
+        "WEBTOOLBAR.ZANGO": 0.423728813559322
+      }
+    },
+    {
+      "row": 1,
+      "col": 3,
+      "counts": {
+        "2": 141,
+        "19": 1,
+        "30": 102
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5778688524590164,
+        "TROJAN.DOINA": 0.004098360655737705,
+        "WEBTOOLBAR.ZANGO": 0.4180327868852459
+      }
+    },
+    {
+      "row": 5,
+      "col": 2,
+      "counts": {
+        "2": 58,
+        "30": 35
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.6236559139784946,
+        "WEBTOOLBAR.ZANGO": 0.3763440860215054
+      }
+    },
+    {
+      "row": 5,
+      "col": 1,
+      "counts": {
+        "2": 19,
+        "30": 15
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5588235294117647,
+        "WEBTOOLBAR.ZANGO": 0.4411764705882353
+      }
+    },
+    {
+      "row": 5,
+      "col": 5,
+      "counts": {
+        "2": 115,
+        "30": 92
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5555555555555556,
+        "WEBTOOLBAR.ZANGO": 0.4444444444444444
+      }
+    },
+    {
+      "row": 4,
+      "col": 0,
+      "counts": {
+        "2": 115,
+        "30": 72
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.6149732620320856,
+        "WEBTOOLBAR.ZANGO": 0.3850267379679144
+      }
+    },
+    {
+      "row": 6,
+      "col": 0,
+      "counts": {
+        "2": 101,
+        "30": 73
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5804597701149425,
+        "WEBTOOLBAR.ZANGO": 0.41954022988505746
+      }
+    },
+    {
+      "row": 2,
+      "col": 0,
+      "counts": {
+        "2": 44,
+        "30": 31
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5866666666666667,
+        "WEBTOOLBAR.ZANGO": 0.41333333333333333
+      }
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "counts": {
+        "2": 48,
+        "30": 33
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5925925925925926,
+        "WEBTOOLBAR.ZANGO": 0.4074074074074074
+      }
+    },
+    {
+      "row": 7,
+      "col": 2,
+      "counts": {
+        "2": 106,
+        "30": 77
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5792349726775956,
+        "WEBTOOLBAR.ZANGO": 0.4207650273224044
+      }
+    },
+    {
+      "row": 8,
+      "col": 0,
+      "counts": {
+        "2": 7,
+        "5": 13,
+        "21": 1,
+        "30": 5
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.2692307692307692,
+        "DOWNLOADER.MEDIAGET": 0.5,
+        "TROJAN.FAREIT": 0.038461538461538464,
+        "WEBTOOLBAR.ZANGO": 0.19230769230769232
+      }
+    },
+    {
+      "row": 3,
+      "col": 16,
+      "counts": {
+        "2": 26,
+        "22": 6,
+        "30": 20
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5,
+        "TROJAN.GENERIC": 0.11538461538461539,
+        "WEBTOOLBAR.ZANGO": 0.38461538461538464
+      }
+    },
+    {
+      "row": 4,
+      "col": 2,
+      "counts": {
+        "2": 375,
+        "30": 309
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5482456140350878,
+        "WEBTOOLBAR.ZANGO": 0.4517543859649123
+      }
+    },
+    {
+      "row": 3,
+      "col": 3,
+      "counts": {
+        "2": 362,
+        "30": 288
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.556923076923077,
+        "WEBTOOLBAR.ZANGO": 0.4430769230769231
+      }
+    },
+    {
+      "row": 1,
+      "col": 0,
+      "counts": {
+        "2": 10,
+        "30": 8
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5555555555555556,
+        "WEBTOOLBAR.ZANGO": 0.4444444444444444
+      }
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "counts": {
+        "2": 263,
+        "23": 1,
+        "30": 211
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5536842105263158,
+        "TROJAN.GRAFTOR": 0.002105263157894737,
+        "WEBTOOLBAR.ZANGO": 0.4442105263157895
+      }
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "counts": {
+        "2": 141,
+        "23": 2,
+        "30": 118
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5402298850574713,
+        "TROJAN.GRAFTOR": 0.007662835249042145,
+        "WEBTOOLBAR.ZANGO": 0.4521072796934866
+      }
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "counts": {
+        "2": 60,
+        "16": 1,
+        "19": 1,
+        "30": 43
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5714285714285714,
+        "TROJAN.ANDROM": 0.009523809523809525,
+        "TROJAN.DOINA": 0.009523809523809525,
+        "WEBTOOLBAR.ZANGO": 0.4095238095238095
+      }
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "counts": {
+        "2": 252,
+        "30": 210
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5454545454545454,
+        "WEBTOOLBAR.ZANGO": 0.45454545454545453
+      }
+    },
+    {
+      "row": 3,
+      "col": 2,
+      "counts": {
+        "2": 46,
+        "30": 40
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5348837209302325,
+        "WEBTOOLBAR.ZANGO": 0.46511627906976744
+      }
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "counts": {
+        "2": 624,
+        "23": 1,
+        "30": 464
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5730027548209367,
+        "TROJAN.GRAFTOR": 0.0009182736455463728,
+        "WEBTOOLBAR.ZANGO": 0.426078971533517
+      }
+    },
+    {
+      "row": 0,
+      "col": 0,
+      "counts": {
+        "2": 229,
+        "30": 119
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.6580459770114943,
+        "WEBTOOLBAR.ZANGO": 0.34195402298850575
+      }
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "counts": {
+        "2": 97,
+        "30": 50
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.6598639455782312,
+        "WEBTOOLBAR.ZANGO": 0.3401360544217687
+      }
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "counts": {
+        "2": 21,
+        "30": 15
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5833333333333334,
+        "WEBTOOLBAR.ZANGO": 0.4166666666666667
+      }
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "counts": {
+        "2": 12,
+        "30": 9
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5714285714285714,
+        "WEBTOOLBAR.ZANGO": 0.42857142857142855
+      }
+    },
+    {
+      "row": 6,
+      "col": 1,
+      "counts": {
+        "2": 51,
+        "30": 36
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5862068965517241,
+        "WEBTOOLBAR.ZANGO": 0.41379310344827586
+      }
+    },
+    {
+      "row": 9,
+      "col": 0,
+      "counts": {
+        "2": 14,
+        "23": 1,
+        "30": 14
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.4827586206896552,
+        "TROJAN.GRAFTOR": 0.034482758620689655,
+        "WEBTOOLBAR.ZANGO": 0.4827586206896552
+      }
+    },
+    {
+      "row": 0,
+      "col": 1,
+      "counts": {
+        "2": 472,
+        "30": 236
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.6666666666666666,
+        "WEBTOOLBAR.ZANGO": 0.3333333333333333
+      }
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "counts": {
+        "2": 560,
+        "30": 560
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.5,
+        "WEBTOOLBAR.ZANGO": 0.5
+      }
+    },
+    {
+      "row": 0,
+      "col": 3,
+      "counts": {
+        "2": 28,
+        "30": 14
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.6666666666666666,
+        "WEBTOOLBAR.ZANGO": 0.3333333333333333
+      }
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "counts": {
+        "2": 1,
+        "11": 5,
+        "16": 110,
+        "19": 6,
+        "22": 2,
+        "26": 112
+      },
+      "proportions": {
+        "ADWARE.SCREENSAVER": 0.00423728813559322,
+        "TROJAN-DROPPER.ROXER": 0.0211864406779661,
+        "TROJAN.ANDROM": 0.4661016949152542,
+        "TROJAN.DOINA": 0.025423728813559324,
+        "TROJAN.GENERIC": 0.00847457627118644,
+        "TROJAN.STRICTOR": 0.4745762711864407
+      }
+    },
+    {
+      "row": 10,
+      "col": 14,
+      "counts": {
+        "3": 5,
+        "21": 1,
+        "23": 1
+      },
+      "proportions": {
+        "BACKDOOR.DARKKOMET": 0.7142857142857143,
+        "TROJAN.FAREIT": 0.14285714285714285,
+        "TROJAN.GRAFTOR": 0.14285714285714285
+      }
+    },
+    {
+      "row": 16,
+      "col": 12,
+      "counts": {
+        "4": 295
+      },
+      "proportions": {
+        "DOWNLOADER.LMN": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 11,
+      "counts": {
+        "4": 408
+      },
+      "proportions": {
+        "DOWNLOADER.LMN": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 10,
+      "counts": {
+        "4": 348,
+        "15": 2
+      },
+      "proportions": {
+        "DOWNLOADER.LMN": 0.9942857142857143,
+        "TROJAN.AGENT": 0.005714285714285714
+      }
+    },
+    {
+      "row": 18,
+      "col": 11,
+      "counts": {
+        "4": 182
+      },
+      "proportions": {
+        "DOWNLOADER.LMN": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 12,
+      "counts": {
+        "4": 38,
+        "23": 1
+      },
+      "proportions": {
+        "DOWNLOADER.LMN": 0.9743589743589743,
+        "TROJAN.GRAFTOR": 0.02564102564102564
+      }
+    },
+    {
+      "row": 12,
+      "col": 7,
+      "counts": {
+        "4": 261
+      },
+      "proportions": {
+        "DOWNLOADER.LMN": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 11,
+      "counts": {
+        "4": 214,
+        "5": 10,
+        "15": 18,
+        "16": 1,
+        "17": 1,
+        "19": 2,
+        "20": 1,
+        "22": 3
+      },
+      "proportions": {
+        "DOWNLOADER.LMN": 0.856,
+        "DOWNLOADER.MEDIAGET": 0.04,
+        "TROJAN.AGENT": 0.072,
+        "TROJAN.ANDROM": 0.004,
+        "TROJAN.AUTOIT": 0.004,
+        "TROJAN.DOINA": 0.008,
+        "TROJAN.DUMP": 0.004,
+        "TROJAN.GENERIC": 0.012
+      }
+    },
+    {
+      "row": 16,
+      "col": 14,
+      "counts": {
+        "4": 36,
+        "14": 1,
+        "15": 1,
+        "19": 1,
+        "22": 1
+      },
+      "proportions": {
+        "DOWNLOADER.LMN": 0.9,
+        "TROJAN-SPY.ZBOT": 0.025,
+        "TROJAN.AGENT": 0.025,
+        "TROJAN.DOINA": 0.025,
+        "TROJAN.GENERIC": 0.025
+      }
+    },
+    {
+      "row": 17,
+      "col": 12,
+      "counts": {
+        "4": 297
+      },
+      "proportions": {
+        "DOWNLOADER.LMN": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 10,
+      "counts": {
+        "4": 106
+      },
+      "proportions": {
+        "DOWNLOADER.LMN": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 14,
+      "counts": {
+        "4": 4,
+        "15": 310
+      },
+      "proportions": {
+        "DOWNLOADER.LMN": 0.012738853503184714,
+        "TROJAN.AGENT": 0.9872611464968153
+      }
+    },
+    {
+      "row": 19,
+      "col": 18,
+      "counts": {
+        "5": 290,
+        "19": 1
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 0.9965635738831615,
+        "TROJAN.DOINA": 0.003436426116838488
+      }
+    },
+    {
+      "row": 18,
+      "col": 18,
+      "counts": {
+        "5": 553
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 16,
+      "counts": {
+        "5": 940
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 19,
+      "counts": {
+        "5": 313
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 17,
+      "counts": {
+        "5": 361
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 16,
+      "counts": {
+        "5": 469
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 19,
+      "counts": {
+        "5": 68,
+        "15": 1,
+        "16": 1,
+        "18": 2,
+        "19": 3,
+        "20": 2,
+        "21": 1,
+        "22": 3,
+        "23": 4
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 0.8,
+        "TROJAN.AGENT": 0.011764705882352941,
+        "TROJAN.ANDROM": 0.011764705882352941,
+        "TROJAN.BARYS": 0.023529411764705882,
+        "TROJAN.DOINA": 0.03529411764705882,
+        "TROJAN.DUMP": 0.023529411764705882,
+        "TROJAN.FAREIT": 0.011764705882352941,
+        "TROJAN.GENERIC": 0.03529411764705882,
+        "TROJAN.GRAFTOR": 0.047058823529411764
+      }
+    },
+    {
+      "row": 19,
+      "col": 17,
+      "counts": {
+        "5": 33,
+        "22": 9
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 0.7857142857142857,
+        "TROJAN.GENERIC": 0.21428571428571427
+      }
+    },
+    {
+      "row": 17,
+      "col": 17,
+      "counts": {
+        "5": 102
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 1.0
+      }
+    },
+    {
+      "row": 16,
+      "col": 16,
+      "counts": {
+        "5": 3,
+        "15": 1,
+        "16": 5,
+        "19": 1,
+        "21": 8,
+        "23": 15,
+        "26": 1
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 0.08823529411764706,
+        "TROJAN.AGENT": 0.029411764705882353,
+        "TROJAN.ANDROM": 0.14705882352941177,
+        "TROJAN.DOINA": 0.029411764705882353,
+        "TROJAN.FAREIT": 0.23529411764705882,
+        "TROJAN.GRAFTOR": 0.4411764705882353,
+        "TROJAN.STRICTOR": 0.029411764705882353
+      }
+    },
+    {
+      "row": 15,
+      "col": 11,
+      "counts": {
+        "5": 73,
+        "16": 1,
+        "20": 1,
+        "21": 1,
+        "22": 5,
+        "26": 2
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 0.8795180722891566,
+        "TROJAN.ANDROM": 0.012048192771084338,
+        "TROJAN.DUMP": 0.012048192771084338,
+        "TROJAN.FAREIT": 0.012048192771084338,
+        "TROJAN.GENERIC": 0.060240963855421686,
+        "TROJAN.STRICTOR": 0.024096385542168676
+      }
+    },
+    {
+      "row": 13,
+      "col": 11,
+      "counts": {
+        "5": 347,
+        "12": 5,
+        "16": 24,
+        "17": 1,
+        "18": 1,
+        "19": 8,
+        "20": 1,
+        "22": 17,
+        "23": 3,
+        "25": 40,
+        "26": 13
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 0.7543478260869565,
+        "TROJAN-PSW.TEPFER": 0.010869565217391304,
+        "TROJAN.ANDROM": 0.05217391304347826,
+        "TROJAN.AUTOIT": 0.002173913043478261,
+        "TROJAN.BARYS": 0.002173913043478261,
+        "TROJAN.DOINA": 0.017391304347826087,
+        "TROJAN.DUMP": 0.002173913043478261,
+        "TROJAN.GENERIC": 0.03695652173913044,
+        "TROJAN.GRAFTOR": 0.006521739130434782,
+        "TROJAN.MACHETE": 0.08695652173913043,
+        "TROJAN.STRICTOR": 0.02826086956521739
+      }
+    },
+    {
+      "row": 12,
+      "col": 0,
+      "counts": {
+        "5": 13,
+        "15": 1,
+        "16": 14,
+        "17": 19,
+        "19": 1,
+        "20": 2,
+        "21": 20,
+        "22": 3,
+        "23": 4,
+        "25": 415
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 0.026422764227642278,
+        "TROJAN.AGENT": 0.0020325203252032522,
+        "TROJAN.ANDROM": 0.028455284552845527,
+        "TROJAN.AUTOIT": 0.03861788617886179,
+        "TROJAN.DOINA": 0.0020325203252032522,
+        "TROJAN.DUMP": 0.0040650406504065045,
+        "TROJAN.FAREIT": 0.04065040650406504,
+        "TROJAN.GENERIC": 0.006097560975609756,
+        "TROJAN.GRAFTOR": 0.008130081300813009,
+        "TROJAN.MACHETE": 0.8434959349593496
+      }
+    },
+    {
+      "row": 7,
+      "col": 0,
+      "counts": {
+        "5": 11,
+        "6": 6,
+        "12": 8,
+        "16": 92,
+        "17": 15,
+        "19": 1,
+        "21": 26,
+        "22": 6,
+        "23": 14,
+        "25": 105,
+        "26": 3,
+        "30": 8
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 0.03728813559322034,
+        "DOWNLOADER.MORSTAR": 0.020338983050847456,
+        "TROJAN-PSW.TEPFER": 0.02711864406779661,
+        "TROJAN.ANDROM": 0.31186440677966104,
+        "TROJAN.AUTOIT": 0.05084745762711865,
+        "TROJAN.DOINA": 0.003389830508474576,
+        "TROJAN.FAREIT": 0.08813559322033898,
+        "TROJAN.GENERIC": 0.020338983050847456,
+        "TROJAN.GRAFTOR": 0.04745762711864407,
+        "TROJAN.MACHETE": 0.3559322033898305,
+        "TROJAN.STRICTOR": 0.010169491525423728,
+        "WEBTOOLBAR.ZANGO": 0.02711864406779661
+      }
+    },
+    {
+      "row": 10,
+      "col": 15,
+      "counts": {
+        "5": 12,
+        "18": 200
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 0.05660377358490566,
+        "TROJAN.BARYS": 0.9433962264150944
+      }
+    },
+    {
+      "row": 10,
+      "col": 1,
+      "counts": {
+        "5": 2,
+        "12": 8,
+        "16": 11,
+        "18": 198,
+        "23": 18,
+        "26": 1
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 0.008403361344537815,
+        "TROJAN-PSW.TEPFER": 0.03361344537815126,
+        "TROJAN.ANDROM": 0.046218487394957986,
+        "TROJAN.BARYS": 0.8319327731092437,
+        "TROJAN.GRAFTOR": 0.07563025210084033,
+        "TROJAN.STRICTOR": 0.004201680672268907
+      }
+    },
+    {
+      "row": 16,
+      "col": 5,
+      "counts": {
+        "5": 3,
+        "7": 40,
+        "14": 2,
+        "15": 1,
+        "18": 3,
+        "22": 3,
+        "27": 8,
+        "28": 2
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 0.04838709677419355,
+        "EMAIL-WORM.MYDOOM": 0.6451612903225806,
+        "TROJAN-SPY.ZBOT": 0.03225806451612903,
+        "TROJAN.AGENT": 0.016129032258064516,
+        "TROJAN.BARYS": 0.04838709677419355,
+        "TROJAN.GENERIC": 0.04838709677419355,
+        "TROJAN.VBKRYPT": 0.12903225806451613,
+        "TROJAN.ZBOT": 0.03225806451612903
+      }
+    },
+    {
+      "row": 14,
+      "col": 5,
+      "counts": {
+        "5": 28,
+        "17": 418,
+        "18": 1
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 0.06263982102908278,
+        "TROJAN.AUTOIT": 0.9351230425055929,
+        "TROJAN.BARYS": 0.0022371364653243847
+      }
+    },
+    {
+      "row": 8,
+      "col": 12,
+      "counts": {
+        "5": 2,
+        "14": 1,
+        "18": 4,
+        "22": 5,
+        "27": 39,
+        "28": 1
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 0.038461538461538464,
+        "TROJAN-SPY.ZBOT": 0.019230769230769232,
+        "TROJAN.BARYS": 0.07692307692307693,
+        "TROJAN.GENERIC": 0.09615384615384616,
+        "TROJAN.VBKRYPT": 0.75,
+        "TROJAN.ZBOT": 0.019230769230769232
+      }
+    },
+    {
+      "row": 17,
+      "col": 6,
+      "counts": {
+        "5": 1,
+        "7": 15,
+        "9": 15,
+        "13": 5,
+        "14": 1,
+        "18": 2,
+        "27": 3,
+        "29": 15
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 0.017543859649122806,
+        "EMAIL-WORM.MYDOOM": 0.2631578947368421,
+        "TROJAN-DOWNLOADER.VB": 0.2631578947368421,
+        "TROJAN-RANSOM.BLOCKER": 0.08771929824561403,
+        "TROJAN-SPY.ZBOT": 0.017543859649122806,
+        "TROJAN.BARYS": 0.03508771929824561,
+        "TROJAN.VBKRYPT": 0.05263157894736842,
+        "VIRUS.LAMER": 0.2631578947368421
+      }
+    },
+    {
+      "row": 12,
+      "col": 13,
+      "counts": {
+        "5": 2,
+        "7": 110,
+        "14": 8,
+        "15": 2,
+        "17": 1,
+        "18": 6,
+        "21": 1,
+        "22": 2,
+        "28": 8
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 0.014285714285714285,
+        "EMAIL-WORM.MYDOOM": 0.7857142857142857,
+        "TROJAN-SPY.ZBOT": 0.05714285714285714,
+        "TROJAN.AGENT": 0.014285714285714285,
+        "TROJAN.AUTOIT": 0.007142857142857143,
+        "TROJAN.BARYS": 0.04285714285714286,
+        "TROJAN.FAREIT": 0.007142857142857143,
+        "TROJAN.GENERIC": 0.014285714285714285,
+        "TROJAN.ZBOT": 0.05714285714285714
+      }
+    },
+    {
+      "row": 17,
+      "col": 15,
+      "counts": {
+        "5": 25
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 1.0
+      }
+    },
+    {
+      "row": 16,
+      "col": 15,
+      "counts": {
+        "5": 1,
+        "15": 9,
+        "17": 49,
+        "22": 9,
+        "31": 45
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 0.008849557522123894,
+        "TROJAN.AGENT": 0.07964601769911504,
+        "TROJAN.AUTOIT": 0.4336283185840708,
+        "TROJAN.GENERIC": 0.07964601769911504,
+        "WORM.AUTOIT": 0.39823008849557523
+      }
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "counts": {
+        "5": 1,
+        "14": 1,
+        "16": 1,
+        "18": 17
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 0.05,
+        "TROJAN-SPY.ZBOT": 0.05,
+        "TROJAN.ANDROM": 0.05,
+        "TROJAN.BARYS": 0.85
+      }
+    },
+    {
+      "row": 11,
+      "col": 0,
+      "counts": {
+        "5": 6,
+        "16": 1,
+        "20": 1,
+        "22": 16,
+        "26": 4,
+        "28": 3
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 0.1935483870967742,
+        "TROJAN.ANDROM": 0.03225806451612903,
+        "TROJAN.DUMP": 0.03225806451612903,
+        "TROJAN.GENERIC": 0.5161290322580645,
+        "TROJAN.STRICTOR": 0.12903225806451613,
+        "TROJAN.ZBOT": 0.0967741935483871
+      }
+    },
+    {
+      "row": 11,
+      "col": 4,
+      "counts": {
+        "5": 2,
+        "16": 39,
+        "22": 19,
+        "26": 39,
+        "30": 1
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 0.02,
+        "TROJAN.ANDROM": 0.39,
+        "TROJAN.GENERIC": 0.19,
+        "TROJAN.STRICTOR": 0.39,
+        "WEBTOOLBAR.ZANGO": 0.01
+      }
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "counts": {
+        "5": 2,
+        "15": 1,
+        "17": 36,
+        "18": 3,
+        "20": 2,
+        "21": 1,
+        "22": 8,
+        "31": 5
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 0.034482758620689655,
+        "TROJAN.AGENT": 0.017241379310344827,
+        "TROJAN.AUTOIT": 0.6206896551724138,
+        "TROJAN.BARYS": 0.05172413793103448,
+        "TROJAN.DUMP": 0.034482758620689655,
+        "TROJAN.FAREIT": 0.017241379310344827,
+        "TROJAN.GENERIC": 0.13793103448275862,
+        "WORM.AUTOIT": 0.08620689655172414
+      }
+    },
+    {
+      "row": 17,
+      "col": 18,
+      "counts": {
+        "5": 379
+      },
+      "proportions": {
+        "DOWNLOADER.MEDIAGET": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 15,
+      "counts": {
+        "6": 176,
+        "12": 1,
+        "19": 1
+      },
+      "proportions": {
+        "DOWNLOADER.MORSTAR": 0.9887640449438202,
+        "TROJAN-PSW.TEPFER": 0.0056179775280898875,
+        "TROJAN.DOINA": 0.0056179775280898875
+      }
+    },
+    {
+      "row": 7,
+      "col": 16,
+      "counts": {
+        "6": 123
+      },
+      "proportions": {
+        "DOWNLOADER.MORSTAR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 16,
+      "counts": {
+        "6": 780
+      },
+      "proportions": {
+        "DOWNLOADER.MORSTAR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 17,
+      "counts": {
+        "6": 291,
+        "19": 1,
+        "20": 5
+      },
+      "proportions": {
+        "DOWNLOADER.MORSTAR": 0.9797979797979798,
+        "TROJAN.DOINA": 0.003367003367003367,
+        "TROJAN.DUMP": 0.016835016835016835
+      }
+    },
+    {
+      "row": 16,
+      "col": 4,
+      "counts": {
+        "6": 3,
+        "11": 10,
+        "19": 10
+      },
+      "proportions": {
+        "DOWNLOADER.MORSTAR": 0.13043478260869565,
+        "TROJAN-DROPPER.ROXER": 0.43478260869565216,
+        "TROJAN.DOINA": 0.43478260869565216
+      }
+    },
+    {
+      "row": 11,
+      "col": 17,
+      "counts": {
+        "6": 353,
+        "21": 1
+      },
+      "proportions": {
+        "DOWNLOADER.MORSTAR": 0.9971751412429378,
+        "TROJAN.FAREIT": 0.002824858757062147
+      }
+    },
+    {
+      "row": 8,
+      "col": 17,
+      "counts": {
+        "6": 193
+      },
+      "proportions": {
+        "DOWNLOADER.MORSTAR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 15,
+      "counts": {
+        "6": 301
+      },
+      "proportions": {
+        "DOWNLOADER.MORSTAR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 16,
+      "counts": {
+        "6": 407
+      },
+      "proportions": {
+        "DOWNLOADER.MORSTAR": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 15,
+      "counts": {
+        "6": 32
+      },
+      "proportions": {
+        "DOWNLOADER.MORSTAR": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 16,
+      "counts": {
+        "6": 62
+      },
+      "proportions": {
+        "DOWNLOADER.MORSTAR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 3,
+      "counts": {
+        "6": 5,
+        "23": 18
+      },
+      "proportions": {
+        "DOWNLOADER.MORSTAR": 0.21739130434782608,
+        "TROJAN.GRAFTOR": 0.782608695652174
+      }
+    },
+    {
+      "row": 12,
+      "col": 6,
+      "counts": {
+        "6": 3,
+        "20": 26,
+        "22": 1
+      },
+      "proportions": {
+        "DOWNLOADER.MORSTAR": 0.1,
+        "TROJAN.DUMP": 0.8666666666666667,
+        "TROJAN.GENERIC": 0.03333333333333333
+      }
+    },
+    {
+      "row": 4,
+      "col": 13,
+      "counts": {
+        "6": 3,
+        "21": 1,
+        "23": 3,
+        "25": 105
+      },
+      "proportions": {
+        "DOWNLOADER.MORSTAR": 0.026785714285714284,
+        "TROJAN.FAREIT": 0.008928571428571428,
+        "TROJAN.GRAFTOR": 0.026785714285714284,
+        "TROJAN.MACHETE": 0.9375
+      }
+    },
+    {
+      "row": 5,
+      "col": 11,
+      "counts": {
+        "7": 365
+      },
+      "proportions": {
+        "EMAIL-WORM.MYDOOM": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 6,
+      "counts": {
+        "7": 30,
+        "11": 5,
+        "15": 17,
+        "19": 5,
+        "22": 73,
+        "23": 42,
+        "24": 72,
+        "28": 765
+      },
+      "proportions": {
+        "EMAIL-WORM.MYDOOM": 0.02973240832507433,
+        "TROJAN-DROPPER.ROXER": 0.004955401387512388,
+        "TROJAN.AGENT": 0.01684836471754212,
+        "TROJAN.DOINA": 0.004955401387512388,
+        "TROJAN.GENERIC": 0.07234886025768088,
+        "TROJAN.GRAFTOR": 0.04162537165510406,
+        "TROJAN.LECNA": 0.07135777998017839,
+        "TROJAN.ZBOT": 0.7581764122893955
+      }
+    },
+    {
+      "row": 16,
+      "col": 6,
+      "counts": {
+        "7": 25,
+        "12": 1,
+        "15": 1,
+        "22": 2,
+        "23": 2,
+        "28": 1
+      },
+      "proportions": {
+        "EMAIL-WORM.MYDOOM": 0.78125,
+        "TROJAN-PSW.TEPFER": 0.03125,
+        "TROJAN.AGENT": 0.03125,
+        "TROJAN.GENERIC": 0.0625,
+        "TROJAN.GRAFTOR": 0.0625,
+        "TROJAN.ZBOT": 0.03125
+      }
+    },
+    {
+      "row": 9,
+      "col": 1,
+      "counts": {
+        "7": 10,
+        "15": 1,
+        "19": 12,
+        "22": 2
+      },
+      "proportions": {
+        "EMAIL-WORM.MYDOOM": 0.4,
+        "TROJAN.AGENT": 0.04,
+        "TROJAN.DOINA": 0.48,
+        "TROJAN.GENERIC": 0.08
+      }
+    },
+    {
+      "row": 11,
+      "col": 13,
+      "counts": {
+        "7": 200
+      },
+      "proportions": {
+        "EMAIL-WORM.MYDOOM": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 11,
+      "counts": {
+        "7": 5,
+        "15": 1,
+        "22": 1,
+        "24": 39,
+        "30": 1
+      },
+      "proportions": {
+        "EMAIL-WORM.MYDOOM": 0.10638297872340426,
+        "TROJAN.AGENT": 0.02127659574468085,
+        "TROJAN.GENERIC": 0.02127659574468085,
+        "TROJAN.LECNA": 0.8297872340425532,
+        "WEBTOOLBAR.ZANGO": 0.02127659574468085
+      }
+    },
+    {
+      "row": 5,
+      "col": 16,
+      "counts": {
+        "7": 5,
+        "14": 3,
+        "15": 1,
+        "19": 3,
+        "20": 8,
+        "22": 1,
+        "23": 3,
+        "24": 25
+      },
+      "proportions": {
+        "EMAIL-WORM.MYDOOM": 0.10204081632653061,
+        "TROJAN-SPY.ZBOT": 0.061224489795918366,
+        "TROJAN.AGENT": 0.02040816326530612,
+        "TROJAN.DOINA": 0.061224489795918366,
+        "TROJAN.DUMP": 0.16326530612244897,
+        "TROJAN.GENERIC": 0.02040816326530612,
+        "TROJAN.GRAFTOR": 0.061224489795918366,
+        "TROJAN.LECNA": 0.5102040816326531
+      }
+    },
+    {
+      "row": 11,
+      "col": 7,
+      "counts": {
+        "10": 96,
+        "18": 1
+      },
+      "proportions": {
+        "TROJAN-DROPPER.DINWOD": 0.9896907216494846,
+        "TROJAN.BARYS": 0.010309278350515464
+      }
+    },
+    {
+      "row": 8,
+      "col": 11,
+      "counts": {
+        "10": 104,
+        "20": 32,
+        "24": 1
+      },
+      "proportions": {
+        "TROJAN-DROPPER.DINWOD": 0.7591240875912408,
+        "TROJAN.DUMP": 0.23357664233576642,
+        "TROJAN.LECNA": 0.0072992700729927005
+      }
+    },
+    {
+      "row": 15,
+      "col": 12,
+      "counts": {
+        "10": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "18": 13,
+        "20": 12,
+        "22": 3,
+        "23": 94
+      },
+      "proportions": {
+        "TROJAN-DROPPER.DINWOD": 0.007936507936507936,
+        "TROJAN-SPY.ZBOT": 0.007936507936507936,
+        "TROJAN.AGENT": 0.007936507936507936,
+        "TROJAN.ANDROM": 0.007936507936507936,
+        "TROJAN.BARYS": 0.10317460317460317,
+        "TROJAN.DUMP": 0.09523809523809523,
+        "TROJAN.GENERIC": 0.023809523809523808,
+        "TROJAN.GRAFTOR": 0.746031746031746
+      }
+    },
+    {
+      "row": 19,
+      "col": 4,
+      "counts": {
+        "11": 490,
+        "19": 490
+      },
+      "proportions": {
+        "TROJAN-DROPPER.ROXER": 0.5,
+        "TROJAN.DOINA": 0.5
+      }
+    },
+    {
+      "row": 8,
+      "col": 2,
+      "counts": {
+        "11": 100,
+        "19": 114
+      },
+      "proportions": {
+        "TROJAN-DROPPER.ROXER": 0.4672897196261682,
+        "TROJAN.DOINA": 0.5327102803738317
+      }
+    },
+    {
+      "row": 17,
+      "col": 5,
+      "counts": {
+        "11": 260,
+        "19": 260
+      },
+      "proportions": {
+        "TROJAN-DROPPER.ROXER": 0.5,
+        "TROJAN.DOINA": 0.5
+      }
+    },
+    {
+      "row": 19,
+      "col": 5,
+      "counts": {
+        "11": 70,
+        "19": 70
+      },
+      "proportions": {
+        "TROJAN-DROPPER.ROXER": 0.5,
+        "TROJAN.DOINA": 0.5
+      }
+    },
+    {
+      "row": 10,
+      "col": 12,
+      "counts": {
+        "11": 15,
+        "19": 15
+      },
+      "proportions": {
+        "TROJAN-DROPPER.ROXER": 0.5,
+        "TROJAN.DOINA": 0.5
+      }
+    },
+    {
+      "row": 9,
+      "col": 12,
+      "counts": {
+        "11": 5,
+        "19": 58
+      },
+      "proportions": {
+        "TROJAN-DROPPER.ROXER": 0.07936507936507936,
+        "TROJAN.DOINA": 0.9206349206349206
+      }
+    },
+    {
+      "row": 17,
+      "col": 4,
+      "counts": {
+        "11": 80,
+        "19": 86
+      },
+      "proportions": {
+        "TROJAN-DROPPER.ROXER": 0.4819277108433735,
+        "TROJAN.DOINA": 0.5180722891566265
+      }
+    },
+    {
+      "row": 17,
+      "col": 3,
+      "counts": {
+        "11": 15,
+        "16": 1,
+        "19": 51,
+        "22": 1,
+        "26": 1
+      },
+      "proportions": {
+        "TROJAN-DROPPER.ROXER": 0.21739130434782608,
+        "TROJAN.ANDROM": 0.014492753623188406,
+        "TROJAN.DOINA": 0.7391304347826086,
+        "TROJAN.GENERIC": 0.014492753623188406,
+        "TROJAN.STRICTOR": 0.014492753623188406
+      }
+    },
+    {
+      "row": 18,
+      "col": 5,
+      "counts": {
+        "11": 140,
+        "19": 140,
+        "23": 1
+      },
+      "proportions": {
+        "TROJAN-DROPPER.ROXER": 0.498220640569395,
+        "TROJAN.DOINA": 0.498220640569395,
+        "TROJAN.GRAFTOR": 0.0035587188612099642
+      }
+    },
+    {
+      "row": 15,
+      "col": 15,
+      "counts": {
+        "11": 15,
+        "19": 26
+      },
+      "proportions": {
+        "TROJAN-DROPPER.ROXER": 0.36585365853658536,
+        "TROJAN.DOINA": 0.6341463414634146
+      }
+    },
+    {
+      "row": 9,
+      "col": 4,
+      "counts": {
+        "11": 110,
+        "19": 129,
+        "21": 1
+      },
+      "proportions": {
+        "TROJAN-DROPPER.ROXER": 0.4583333333333333,
+        "TROJAN.DOINA": 0.5375,
+        "TROJAN.FAREIT": 0.004166666666666667
+      }
+    },
+    {
+      "row": 19,
+      "col": 3,
+      "counts": {
+        "11": 40,
+        "19": 62
+      },
+      "proportions": {
+        "TROJAN-DROPPER.ROXER": 0.39215686274509803,
+        "TROJAN.DOINA": 0.6078431372549019
+      }
+    },
+    {
+      "row": 18,
+      "col": 4,
+      "counts": {
+        "11": 120,
+        "19": 120
+      },
+      "proportions": {
+        "TROJAN-DROPPER.ROXER": 0.5,
+        "TROJAN.DOINA": 0.5
+      }
+    },
+    {
+      "row": 18,
+      "col": 3,
+      "counts": {
+        "11": 40,
+        "19": 50
+      },
+      "proportions": {
+        "TROJAN-DROPPER.ROXER": 0.4444444444444444,
+        "TROJAN.DOINA": 0.5555555555555556
+      }
+    },
+    {
+      "row": 17,
+      "col": 2,
+      "counts": {
+        "11": 5,
+        "19": 43,
+        "21": 2
+      },
+      "proportions": {
+        "TROJAN-DROPPER.ROXER": 0.1,
+        "TROJAN.DOINA": 0.86,
+        "TROJAN.FAREIT": 0.04
+      }
+    },
+    {
+      "row": 19,
+      "col": 6,
+      "counts": {
+        "11": 35,
+        "19": 48,
+        "21": 1,
+        "22": 1,
+        "23": 1
+      },
+      "proportions": {
+        "TROJAN-DROPPER.ROXER": 0.4069767441860465,
+        "TROJAN.DOINA": 0.5581395348837209,
+        "TROJAN.FAREIT": 0.011627906976744186,
+        "TROJAN.GENERIC": 0.011627906976744186,
+        "TROJAN.GRAFTOR": 0.011627906976744186
+      }
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "counts": {
+        "12": 5,
+        "21": 6,
+        "22": 1,
+        "28": 1
+      },
+      "proportions": {
+        "TROJAN-PSW.TEPFER": 0.38461538461538464,
+        "TROJAN.FAREIT": 0.46153846153846156,
+        "TROJAN.GENERIC": 0.07692307692307693,
+        "TROJAN.ZBOT": 0.07692307692307693
+      }
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "counts": {
+        "12": 224,
+        "15": 2,
+        "18": 3,
+        "22": 3
+      },
+      "proportions": {
+        "TROJAN-PSW.TEPFER": 0.9655172413793104,
+        "TROJAN.AGENT": 0.008620689655172414,
+        "TROJAN.BARYS": 0.01293103448275862,
+        "TROJAN.GENERIC": 0.01293103448275862
+      }
+    },
+    {
+      "row": 18,
+      "col": 2,
+      "counts": {
+        "12": 2,
+        "16": 1,
+        "17": 1,
+        "19": 1,
+        "23": 1,
+        "31": 69
+      },
+      "proportions": {
+        "TROJAN-PSW.TEPFER": 0.02666666666666667,
+        "TROJAN.ANDROM": 0.013333333333333334,
+        "TROJAN.AUTOIT": 0.013333333333333334,
+        "TROJAN.DOINA": 0.013333333333333334,
+        "TROJAN.GRAFTOR": 0.013333333333333334,
+        "WORM.AUTOIT": 0.92
+      }
+    },
+    {
+      "row": 6,
+      "col": 18,
+      "counts": {
+        "12": 1,
+        "15": 2,
+        "16": 13,
+        "17": 1,
+        "18": 9,
+        "19": 4,
+        "21": 4,
+        "22": 1,
+        "23": 9,
+        "26": 3
+      },
+      "proportions": {
+        "TROJAN-PSW.TEPFER": 0.02127659574468085,
+        "TROJAN.AGENT": 0.0425531914893617,
+        "TROJAN.ANDROM": 0.2765957446808511,
+        "TROJAN.AUTOIT": 0.02127659574468085,
+        "TROJAN.BARYS": 0.19148936170212766,
+        "TROJAN.DOINA": 0.0851063829787234,
+        "TROJAN.FAREIT": 0.0851063829787234,
+        "TROJAN.GENERIC": 0.02127659574468085,
+        "TROJAN.GRAFTOR": 0.19148936170212766,
+        "TROJAN.STRICTOR": 0.06382978723404255
+      }
+    },
+    {
+      "row": 8,
+      "col": 13,
+      "counts": {
+        "12": 3,
+        "16": 13,
+        "20": 1,
+        "21": 4,
+        "23": 1,
+        "26": 74
+      },
+      "proportions": {
+        "TROJAN-PSW.TEPFER": 0.03125,
+        "TROJAN.ANDROM": 0.13541666666666666,
+        "TROJAN.DUMP": 0.010416666666666666,
+        "TROJAN.FAREIT": 0.041666666666666664,
+        "TROJAN.GRAFTOR": 0.010416666666666666,
+        "TROJAN.STRICTOR": 0.7708333333333334
+      }
+    },
+    {
+      "row": 11,
+      "col": 5,
+      "counts": {
+        "12": 2,
+        "16": 1,
+        "26": 81
+      },
+      "proportions": {
+        "TROJAN-PSW.TEPFER": 0.023809523809523808,
+        "TROJAN.ANDROM": 0.011904761904761904,
+        "TROJAN.STRICTOR": 0.9642857142857143
+      }
+    },
+    {
+      "row": 6,
+      "col": 16,
+      "counts": {
+        "12": 3,
+        "15": 1,
+        "16": 2,
+        "19": 1,
+        "22": 9,
+        "23": 1
+      },
+      "proportions": {
+        "TROJAN-PSW.TEPFER": 0.17647058823529413,
+        "TROJAN.AGENT": 0.058823529411764705,
+        "TROJAN.ANDROM": 0.11764705882352941,
+        "TROJAN.DOINA": 0.058823529411764705,
+        "TROJAN.GENERIC": 0.5294117647058824,
+        "TROJAN.GRAFTOR": 0.058823529411764705
+      }
+    },
+    {
+      "row": 16,
+      "col": 10,
+      "counts": {
+        "12": 2,
+        "16": 4,
+        "18": 1,
+        "21": 3,
+        "23": 210
+      },
+      "proportions": {
+        "TROJAN-PSW.TEPFER": 0.00909090909090909,
+        "TROJAN.ANDROM": 0.01818181818181818,
+        "TROJAN.BARYS": 0.004545454545454545,
+        "TROJAN.FAREIT": 0.013636363636363636,
+        "TROJAN.GRAFTOR": 0.9545454545454546
+      }
+    },
+    {
+      "row": 17,
+      "col": 8,
+      "counts": {
+        "12": 2,
+        "15": 3,
+        "18": 3,
+        "19": 1,
+        "22": 3,
+        "23": 14,
+        "24": 5,
+        "26": 2,
+        "28": 6
+      },
+      "proportions": {
+        "TROJAN-PSW.TEPFER": 0.05128205128205128,
+        "TROJAN.AGENT": 0.07692307692307693,
+        "TROJAN.BARYS": 0.07692307692307693,
+        "TROJAN.DOINA": 0.02564102564102564,
+        "TROJAN.GENERIC": 0.07692307692307693,
+        "TROJAN.GRAFTOR": 0.358974358974359,
+        "TROJAN.LECNA": 0.1282051282051282,
+        "TROJAN.STRICTOR": 0.05128205128205128,
+        "TROJAN.ZBOT": 0.15384615384615385
+      }
+    },
+    {
+      "row": 8,
+      "col": 3,
+      "counts": {
+        "13": 33,
+        "17": 369,
+        "26": 33
+      },
+      "proportions": {
+        "TROJAN-RANSOM.BLOCKER": 0.07586206896551724,
+        "TROJAN.AUTOIT": 0.8482758620689655,
+        "TROJAN.STRICTOR": 0.07586206896551724
+      }
+    },
+    {
+      "row": 4,
+      "col": 15,
+      "counts": {
+        "14": 88,
+        "17": 5
+      },
+      "proportions": {
+        "TROJAN-SPY.ZBOT": 0.946236559139785,
+        "TROJAN.AUTOIT": 0.053763440860215055
+      }
+    },
+    {
+      "row": 5,
+      "col": 12,
+      "counts": {
+        "14": 1,
+        "15": 5,
+        "16": 69,
+        "18": 1,
+        "19": 3,
+        "21": 1,
+        "22": 4,
+        "23": 4,
+        "24": 1,
+        "25": 10,
+        "26": 5,
+        "30": 15,
+        "31": 5
+      },
+      "proportions": {
+        "TROJAN-SPY.ZBOT": 0.008064516129032258,
+        "TROJAN.AGENT": 0.04032258064516129,
+        "TROJAN.ANDROM": 0.5564516129032258,
+        "TROJAN.BARYS": 0.008064516129032258,
+        "TROJAN.DOINA": 0.024193548387096774,
+        "TROJAN.FAREIT": 0.008064516129032258,
+        "TROJAN.GENERIC": 0.03225806451612903,
+        "TROJAN.GRAFTOR": 0.03225806451612903,
+        "TROJAN.LECNA": 0.008064516129032258,
+        "TROJAN.MACHETE": 0.08064516129032258,
+        "TROJAN.STRICTOR": 0.04032258064516129,
+        "WEBTOOLBAR.ZANGO": 0.12096774193548387,
+        "WORM.AUTOIT": 0.04032258064516129
+      }
+    },
+    {
+      "row": 10,
+      "col": 5,
+      "counts": {
+        "14": 1,
+        "19": 14,
+        "20": 1,
+        "21": 3,
+        "22": 65
+      },
+      "proportions": {
+        "TROJAN-SPY.ZBOT": 0.011904761904761904,
+        "TROJAN.DOINA": 0.16666666666666666,
+        "TROJAN.DUMP": 0.011904761904761904,
+        "TROJAN.FAREIT": 0.03571428571428571,
+        "TROJAN.GENERIC": 0.7738095238095238
+      }
+    },
+    {
+      "row": 11,
+      "col": 12,
+      "counts": {
+        "14": 2,
+        "16": 1,
+        "20": 1,
+        "21": 1,
+        "22": 1,
+        "23": 1,
+        "26": 68
+      },
+      "proportions": {
+        "TROJAN-SPY.ZBOT": 0.02666666666666667,
+        "TROJAN.ANDROM": 0.013333333333333334,
+        "TROJAN.DUMP": 0.013333333333333334,
+        "TROJAN.FAREIT": 0.013333333333333334,
+        "TROJAN.GENERIC": 0.013333333333333334,
+        "TROJAN.GRAFTOR": 0.013333333333333334,
+        "TROJAN.STRICTOR": 0.9066666666666666
+      }
+    },
+    {
+      "row": 13,
+      "col": 6,
+      "counts": {
+        "15": 56,
+        "23": 66
+      },
+      "proportions": {
+        "TROJAN.AGENT": 0.45901639344262296,
+        "TROJAN.GRAFTOR": 0.5409836065573771
+      }
+    },
+    {
+      "row": 7,
+      "col": 14,
+      "counts": {
+        "15": 31
+      },
+      "proportions": {
+        "TROJAN.AGENT": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 9,
+      "counts": {
+        "15": 18,
+        "22": 1,
+        "23": 44
+      },
+      "proportions": {
+        "TROJAN.AGENT": 0.2857142857142857,
+        "TROJAN.GENERIC": 0.015873015873015872,
+        "TROJAN.GRAFTOR": 0.6984126984126984
+      }
+    },
+    {
+      "row": 16,
+      "col": 7,
+      "counts": {
+        "15": 4,
+        "18": 3,
+        "20": 5,
+        "23": 14
+      },
+      "proportions": {
+        "TROJAN.AGENT": 0.15384615384615385,
+        "TROJAN.BARYS": 0.11538461538461539,
+        "TROJAN.DUMP": 0.19230769230769232,
+        "TROJAN.GRAFTOR": 0.5384615384615384
+      }
+    },
+    {
+      "row": 10,
+      "col": 7,
+      "counts": {
+        "15": 12,
+        "20": 12,
+        "23": 146,
+        "24": 5
+      },
+      "proportions": {
+        "TROJAN.AGENT": 0.06857142857142857,
+        "TROJAN.DUMP": 0.06857142857142857,
+        "TROJAN.GRAFTOR": 0.8342857142857143,
+        "TROJAN.LECNA": 0.02857142857142857
+      }
+    },
+    {
+      "row": 16,
+      "col": 3,
+      "counts": {
+        "15": 2,
+        "16": 11,
+        "17": 1,
+        "23": 21
+      },
+      "proportions": {
+        "TROJAN.AGENT": 0.05714285714285714,
+        "TROJAN.ANDROM": 0.3142857142857143,
+        "TROJAN.AUTOIT": 0.02857142857142857,
+        "TROJAN.GRAFTOR": 0.6
+      }
+    },
+    {
+      "row": 6,
+      "col": 14,
+      "counts": {
+        "15": 72,
+        "22": 1,
+        "23": 2
+      },
+      "proportions": {
+        "TROJAN.AGENT": 0.96,
+        "TROJAN.GENERIC": 0.013333333333333334,
+        "TROJAN.GRAFTOR": 0.02666666666666667
+      }
+    },
+    {
+      "row": 19,
+      "col": 15,
+      "counts": {
+        "15": 160
+      },
+      "proportions": {
+        "TROJAN.AGENT": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 12,
+      "counts": {
+        "15": 82
+      },
+      "proportions": {
+        "TROJAN.AGENT": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 14,
+      "counts": {
+        "15": 664
+      },
+      "proportions": {
+        "TROJAN.AGENT": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 13,
+      "counts": {
+        "15": 192
+      },
+      "proportions": {
+        "TROJAN.AGENT": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 14,
+      "counts": {
+        "15": 168
+      },
+      "proportions": {
+        "TROJAN.AGENT": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 13,
+      "counts": {
+        "15": 258
+      },
+      "proportions": {
+        "TROJAN.AGENT": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 13,
+      "counts": {
+        "15": 44
+      },
+      "proportions": {
+        "TROJAN.AGENT": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 17,
+      "counts": {
+        "15": 2,
+        "19": 1,
+        "22": 77,
+        "31": 1
+      },
+      "proportions": {
+        "TROJAN.AGENT": 0.024691358024691357,
+        "TROJAN.DOINA": 0.012345679012345678,
+        "TROJAN.GENERIC": 0.9506172839506173,
+        "WORM.AUTOIT": 0.012345679012345678
+      }
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "counts": {
+        "15": 1,
+        "20": 4,
+        "21": 1,
+        "22": 50,
+        "24": 2
+      },
+      "proportions": {
+        "TROJAN.AGENT": 0.017241379310344827,
+        "TROJAN.DUMP": 0.06896551724137931,
+        "TROJAN.FAREIT": 0.017241379310344827,
+        "TROJAN.GENERIC": 0.8620689655172413,
+        "TROJAN.LECNA": 0.034482758620689655
+      }
+    },
+    {
+      "row": 14,
+      "col": 13,
+      "counts": {
+        "16": 430
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 12,
+      "counts": {
+        "16": 385
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 13,
+      "counts": {
+        "16": 121,
+        "21": 1,
+        "30": 3
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.968,
+        "TROJAN.FAREIT": 0.008,
+        "WEBTOOLBAR.ZANGO": 0.024
+      }
+    },
+    {
+      "row": 13,
+      "col": 7,
+      "counts": {
+        "16": 4,
+        "22": 1,
+        "23": 168
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.023121387283236993,
+        "TROJAN.GENERIC": 0.005780346820809248,
+        "TROJAN.GRAFTOR": 0.9710982658959537
+      }
+    },
+    {
+      "row": 14,
+      "col": 6,
+      "counts": {
+        "16": 2,
+        "23": 50
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.038461538461538464,
+        "TROJAN.GRAFTOR": 0.9615384615384616
+      }
+    },
+    {
+      "row": 13,
+      "col": 5,
+      "counts": {
+        "16": 7,
+        "22": 1,
+        "23": 9
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.4117647058823529,
+        "TROJAN.GENERIC": 0.058823529411764705,
+        "TROJAN.GRAFTOR": 0.5294117647058824
+      }
+    },
+    {
+      "row": 16,
+      "col": 17,
+      "counts": {
+        "16": 1,
+        "21": 8
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.1111111111111111,
+        "TROJAN.FAREIT": 0.8888888888888888
+      }
+    },
+    {
+      "row": 16,
+      "col": 11,
+      "counts": {
+        "16": 3,
+        "20": 111,
+        "22": 7
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.024793388429752067,
+        "TROJAN.DUMP": 0.9173553719008265,
+        "TROJAN.GENERIC": 0.05785123966942149
+      }
+    },
+    {
+      "row": 17,
+      "col": 7,
+      "counts": {
+        "16": 6,
+        "18": 2,
+        "23": 76
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.07142857142857142,
+        "TROJAN.BARYS": 0.023809523809523808,
+        "TROJAN.GRAFTOR": 0.9047619047619048
+      }
+    },
+    {
+      "row": 17,
+      "col": 0,
+      "counts": {
+        "16": 159,
+        "19": 1,
+        "22": 4,
+        "26": 152
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.5031645569620253,
+        "TROJAN.DOINA": 0.0031645569620253164,
+        "TROJAN.GENERIC": 0.012658227848101266,
+        "TROJAN.STRICTOR": 0.4810126582278481
+      }
+    },
+    {
+      "row": 19,
+      "col": 2,
+      "counts": {
+        "16": 8,
+        "21": 1,
+        "22": 2,
+        "26": 3,
+        "30": 88
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.0784313725490196,
+        "TROJAN.FAREIT": 0.00980392156862745,
+        "TROJAN.GENERIC": 0.0196078431372549,
+        "TROJAN.STRICTOR": 0.029411764705882353,
+        "WEBTOOLBAR.ZANGO": 0.8627450980392157
+      }
+    },
+    {
+      "row": 13,
+      "col": 18,
+      "counts": {
+        "16": 5,
+        "19": 1,
+        "21": 42,
+        "23": 5,
+        "26": 1
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.09259259259259259,
+        "TROJAN.DOINA": 0.018518518518518517,
+        "TROJAN.FAREIT": 0.7777777777777778,
+        "TROJAN.GRAFTOR": 0.09259259259259259,
+        "TROJAN.STRICTOR": 0.018518518518518517
+      }
+    },
+    {
+      "row": 9,
+      "col": 18,
+      "counts": {
+        "16": 7,
+        "22": 1,
+        "23": 4,
+        "26": 2
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.5,
+        "TROJAN.GENERIC": 0.07142857142857142,
+        "TROJAN.GRAFTOR": 0.2857142857142857,
+        "TROJAN.STRICTOR": 0.14285714285714285
+      }
+    },
+    {
+      "row": 16,
+      "col": 13,
+      "counts": {
+        "16": 18,
+        "17": 1,
+        "19": 4,
+        "21": 2,
+        "22": 146,
+        "26": 12,
+        "30": 1
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.09782608695652174,
+        "TROJAN.AUTOIT": 0.005434782608695652,
+        "TROJAN.DOINA": 0.021739130434782608,
+        "TROJAN.FAREIT": 0.010869565217391304,
+        "TROJAN.GENERIC": 0.7934782608695652,
+        "TROJAN.STRICTOR": 0.06521739130434782,
+        "WEBTOOLBAR.ZANGO": 0.005434782608695652
+      }
+    },
+    {
+      "row": 12,
+      "col": 17,
+      "counts": {
+        "16": 1,
+        "21": 1,
+        "23": 77,
+        "26": 1
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.0125,
+        "TROJAN.FAREIT": 0.0125,
+        "TROJAN.GRAFTOR": 0.9625,
+        "TROJAN.STRICTOR": 0.0125
+      }
+    },
+    {
+      "row": 19,
+      "col": 1,
+      "counts": {
+        "16": 96,
+        "22": 1,
+        "26": 96
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.49740932642487046,
+        "TROJAN.GENERIC": 0.0051813471502590676,
+        "TROJAN.STRICTOR": 0.49740932642487046
+      }
+    },
+    {
+      "row": 18,
+      "col": 0,
+      "counts": {
+        "16": 297,
+        "26": 297
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.5,
+        "TROJAN.STRICTOR": 0.5
+      }
+    },
+    {
+      "row": 13,
+      "col": 10,
+      "counts": {
+        "16": 71,
+        "26": 69
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.5071428571428571,
+        "TROJAN.STRICTOR": 0.4928571428571429
+      }
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "counts": {
+        "16": 27,
+        "26": 27
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.5,
+        "TROJAN.STRICTOR": 0.5
+      }
+    },
+    {
+      "row": 19,
+      "col": 0,
+      "counts": {
+        "16": 25,
+        "26": 25
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.5,
+        "TROJAN.STRICTOR": 0.5
+      }
+    },
+    {
+      "row": 18,
+      "col": 1,
+      "counts": {
+        "16": 31,
+        "26": 31
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.5,
+        "TROJAN.STRICTOR": 0.5
+      }
+    },
+    {
+      "row": 17,
+      "col": 1,
+      "counts": {
+        "16": 83,
+        "26": 83
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.5,
+        "TROJAN.STRICTOR": 0.5
+      }
+    },
+    {
+      "row": 10,
+      "col": 2,
+      "counts": {
+        "16": 27,
+        "21": 1,
+        "22": 1,
+        "26": 26
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.4909090909090909,
+        "TROJAN.FAREIT": 0.01818181818181818,
+        "TROJAN.GENERIC": 0.01818181818181818,
+        "TROJAN.STRICTOR": 0.4727272727272727
+      }
+    },
+    {
+      "row": 12,
+      "col": 5,
+      "counts": {
+        "16": 2,
+        "19": 1,
+        "26": 292
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.006779661016949152,
+        "TROJAN.DOINA": 0.003389830508474576,
+        "TROJAN.STRICTOR": 0.9898305084745763
+      }
+    },
+    {
+      "row": 13,
+      "col": 12,
+      "counts": {
+        "16": 47,
+        "26": 47
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.5,
+        "TROJAN.STRICTOR": 0.5
+      }
+    },
+    {
+      "row": 11,
+      "col": 1,
+      "counts": {
+        "16": 1,
+        "17": 270,
+        "19": 2,
+        "26": 2
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.0036363636363636364,
+        "TROJAN.AUTOIT": 0.9818181818181818,
+        "TROJAN.DOINA": 0.007272727272727273,
+        "TROJAN.STRICTOR": 0.007272727272727273
+      }
+    },
+    {
+      "row": 12,
+      "col": 18,
+      "counts": {
+        "16": 1,
+        "21": 61,
+        "26": 1
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.015873015873015872,
+        "TROJAN.FAREIT": 0.9682539682539683,
+        "TROJAN.STRICTOR": 0.015873015873015872
+      }
+    },
+    {
+      "row": 16,
+      "col": 18,
+      "counts": {
+        "16": 16,
+        "18": 1,
+        "19": 10,
+        "22": 31
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.27586206896551724,
+        "TROJAN.BARYS": 0.017241379310344827,
+        "TROJAN.DOINA": 0.1724137931034483,
+        "TROJAN.GENERIC": 0.5344827586206896
+      }
+    },
+    {
+      "row": 9,
+      "col": 10,
+      "counts": {
+        "16": 1,
+        "22": 276
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.0036101083032490976,
+        "TROJAN.GENERIC": 0.9963898916967509
+      }
+    },
+    {
+      "row": 10,
+      "col": 11,
+      "counts": {
+        "16": 1,
+        "18": 424,
+        "22": 1
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.002347417840375587,
+        "TROJAN.BARYS": 0.9953051643192489,
+        "TROJAN.GENERIC": 0.002347417840375587
+      }
+    },
+    {
+      "row": 7,
+      "col": 17,
+      "counts": {
+        "16": 1,
+        "22": 53,
+        "26": 1
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.01818181818181818,
+        "TROJAN.GENERIC": 0.9636363636363636,
+        "TROJAN.STRICTOR": 0.01818181818181818
+      }
+    },
+    {
+      "row": 8,
+      "col": 19,
+      "counts": {
+        "16": 1,
+        "30": 43
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.022727272727272728,
+        "WEBTOOLBAR.ZANGO": 0.9772727272727273
+      }
+    },
+    {
+      "row": 15,
+      "col": 14,
+      "counts": {
+        "16": 41
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 15,
+      "counts": {
+        "16": 1,
+        "23": 35,
+        "30": 1
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.02702702702702703,
+        "TROJAN.GRAFTOR": 0.9459459459459459,
+        "WEBTOOLBAR.ZANGO": 0.02702702702702703
+      }
+    },
+    {
+      "row": 11,
+      "col": 2,
+      "counts": {
+        "16": 114
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 18,
+      "counts": {
+        "16": 1,
+        "23": 37
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.02631578947368421,
+        "TROJAN.GRAFTOR": 0.9736842105263158
+      }
+    },
+    {
+      "row": 13,
+      "col": 14,
+      "counts": {
+        "16": 1,
+        "21": 158
+      },
+      "proportions": {
+        "TROJAN.ANDROM": 0.006289308176100629,
+        "TROJAN.FAREIT": 0.9937106918238994
+      }
+    },
+    {
+      "row": 10,
+      "col": 3,
+      "counts": {
+        "17": 508
+      },
+      "proportions": {
+        "TROJAN.AUTOIT": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "counts": {
+        "17": 206
+      },
+      "proportions": {
+        "TROJAN.AUTOIT": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 6,
+      "counts": {
+        "17": 48
+      },
+      "proportions": {
+        "TROJAN.AUTOIT": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 10,
+      "counts": {
+        "18": 114
+      },
+      "proportions": {
+        "TROJAN.BARYS": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 10,
+      "counts": {
+        "18": 49
+      },
+      "proportions": {
+        "TROJAN.BARYS": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 8,
+      "counts": {
+        "18": 2,
+        "19": 1,
+        "22": 44,
+        "23": 1
+      },
+      "proportions": {
+        "TROJAN.BARYS": 0.041666666666666664,
+        "TROJAN.DOINA": 0.020833333333333332,
+        "TROJAN.GENERIC": 0.9166666666666666,
+        "TROJAN.GRAFTOR": 0.020833333333333332
+      }
+    },
+    {
+      "row": 8,
+      "col": 7,
+      "counts": {
+        "18": 338
+      },
+      "proportions": {
+        "TROJAN.BARYS": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 8,
+      "counts": {
+        "18": 1,
+        "22": 15,
+        "23": 1
+      },
+      "proportions": {
+        "TROJAN.BARYS": 0.058823529411764705,
+        "TROJAN.GENERIC": 0.8823529411764706,
+        "TROJAN.GRAFTOR": 0.058823529411764705
+      }
+    },
+    {
+      "row": 9,
+      "col": 11,
+      "counts": {
+        "18": 23,
+        "22": 1
+      },
+      "proportions": {
+        "TROJAN.BARYS": 0.9583333333333334,
+        "TROJAN.GENERIC": 0.041666666666666664
+      }
+    },
+    {
+      "row": 11,
+      "col": 16,
+      "counts": {
+        "19": 22
+      },
+      "proportions": {
+        "TROJAN.DOINA": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 1,
+      "counts": {
+        "19": 32
+      },
+      "proportions": {
+        "TROJAN.DOINA": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 19,
+      "counts": {
+        "19": 49
+      },
+      "proportions": {
+        "TROJAN.DOINA": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 7,
+      "counts": {
+        "19": 73
+      },
+      "proportions": {
+        "TROJAN.DOINA": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "counts": {
+        "19": 47
+      },
+      "proportions": {
+        "TROJAN.DOINA": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 3,
+      "counts": {
+        "19": 19,
+        "20": 1,
+        "22": 1
+      },
+      "proportions": {
+        "TROJAN.DOINA": 0.9047619047619048,
+        "TROJAN.DUMP": 0.047619047619047616,
+        "TROJAN.GENERIC": 0.047619047619047616
+      }
+    },
+    {
+      "row": 3,
+      "col": 14,
+      "counts": {
+        "19": 35
+      },
+      "proportions": {
+        "TROJAN.DOINA": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 9,
+      "counts": {
+        "19": 23
+      },
+      "proportions": {
+        "TROJAN.DOINA": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 6,
+      "counts": {
+        "19": 1,
+        "22": 42
+      },
+      "proportions": {
+        "TROJAN.DOINA": 0.023255813953488372,
+        "TROJAN.GENERIC": 0.9767441860465116
+      }
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "counts": {
+        "19": 2,
+        "20": 16,
+        "22": 12
+      },
+      "proportions": {
+        "TROJAN.DOINA": 0.06666666666666667,
+        "TROJAN.DUMP": 0.5333333333333333,
+        "TROJAN.GENERIC": 0.4
+      }
+    },
+    {
+      "row": 4,
+      "col": 11,
+      "counts": {
+        "19": 1,
+        "22": 42
+      },
+      "proportions": {
+        "TROJAN.DOINA": 0.023255813953488372,
+        "TROJAN.GENERIC": 0.9767441860465116
+      }
+    },
+    {
+      "row": 7,
+      "col": 19,
+      "counts": {
+        "19": 1,
+        "20": 4,
+        "22": 110
+      },
+      "proportions": {
+        "TROJAN.DOINA": 0.008695652173913044,
+        "TROJAN.DUMP": 0.034782608695652174,
+        "TROJAN.GENERIC": 0.9565217391304348
+      }
+    },
+    {
+      "row": 8,
+      "col": 14,
+      "counts": {
+        "19": 24
+      },
+      "proportions": {
+        "TROJAN.DOINA": 1.0
+      }
+    },
+    {
+      "row": 5,
+      "col": 15,
+      "counts": {
+        "19": 1,
+        "26": 85
+      },
+      "proportions": {
+        "TROJAN.DOINA": 0.011627906976744186,
+        "TROJAN.STRICTOR": 0.9883720930232558
+      }
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "counts": {
+        "20": 60,
+        "23": 12
+      },
+      "proportions": {
+        "TROJAN.DUMP": 0.8333333333333334,
+        "TROJAN.GRAFTOR": 0.16666666666666666
+      }
+    },
+    {
+      "row": 8,
+      "col": 10,
+      "counts": {
+        "20": 25,
+        "23": 1,
+        "24": 95
+      },
+      "proportions": {
+        "TROJAN.DUMP": 0.2066115702479339,
+        "TROJAN.GRAFTOR": 0.008264462809917356,
+        "TROJAN.LECNA": 0.7851239669421488
+      }
+    },
+    {
+      "row": 18,
+      "col": 8,
+      "counts": {
+        "20": 2,
+        "22": 140
+      },
+      "proportions": {
+        "TROJAN.DUMP": 0.014084507042253521,
+        "TROJAN.GENERIC": 0.9859154929577465
+      }
+    },
+    {
+      "row": 12,
+      "col": 4,
+      "counts": {
+        "20": 2,
+        "26": 126
+      },
+      "proportions": {
+        "TROJAN.DUMP": 0.015625,
+        "TROJAN.STRICTOR": 0.984375
+      }
+    },
+    {
+      "row": 15,
+      "col": 17,
+      "counts": {
+        "21": 505
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 15,
+      "counts": {
+        "21": 1350
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 14,
+      "counts": {
+        "21": 1027
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 16,
+      "counts": {
+        "21": 230
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 13,
+      "counts": {
+        "21": 94
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 15,
+      "counts": {
+        "21": 197
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 14,
+      "counts": {
+        "21": 138
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 16,
+      "counts": {
+        "21": 44
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 15,
+      "counts": {
+        "21": 89
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 15,
+      "counts": {
+        "21": 104
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 17,
+      "counts": {
+        "21": 33
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 18,
+      "counts": {
+        "21": 70
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 17,
+      "counts": {
+        "21": 31
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 11,
+      "counts": {
+        "21": 50
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 14,
+      "counts": {
+        "21": 3
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 2,
+      "counts": {
+        "21": 63
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 1.0
+      }
+    },
+    {
+      "row": 5,
+      "col": 13,
+      "counts": {
+        "21": 1,
+        "25": 135
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 0.007352941176470588,
+        "TROJAN.MACHETE": 0.9926470588235294
+      }
+    },
+    {
+      "row": 14,
+      "col": 16,
+      "counts": {
+        "21": 61
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 16,
+      "counts": {
+        "21": 16
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 19,
+      "counts": {
+        "21": 108
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 18,
+      "counts": {
+        "21": 91
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 19,
+      "counts": {
+        "21": 9
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 19,
+      "counts": {
+        "21": 23
+      },
+      "proportions": {
+        "TROJAN.FAREIT": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 9,
+      "counts": {
+        "22": 386
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 8,
+      "counts": {
+        "22": 111
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "counts": {
+        "22": 35,
+        "23": 1
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 0.9722222222222222,
+        "TROJAN.GRAFTOR": 0.027777777777777776
+      }
+    },
+    {
+      "row": 10,
+      "col": 13,
+      "counts": {
+        "22": 109
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 10,
+      "counts": {
+        "22": 363
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 8,
+      "counts": {
+        "22": 58
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 11,
+      "counts": {
+        "22": 37
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 10,
+      "counts": {
+        "22": 29
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 18,
+      "counts": {
+        "22": 49
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 5,
+      "col": 14,
+      "counts": {
+        "22": 17
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 9,
+      "counts": {
+        "22": 116
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 13,
+      "counts": {
+        "22": 31
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 7,
+      "counts": {
+        "22": 55
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 9,
+      "counts": {
+        "22": 69
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 7,
+      "counts": {
+        "22": 67
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 15,
+      "counts": {
+        "22": 1
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 16,
+      "col": 1,
+      "counts": {
+        "22": 2
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 11,
+      "counts": {
+        "22": 110
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 9,
+      "counts": {
+        "22": 66
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 9,
+      "counts": {
+        "22": 12
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 5,
+      "counts": {
+        "22": 1,
+        "23": 73
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 0.013513513513513514,
+        "TROJAN.GRAFTOR": 0.9864864864864865
+      }
+    },
+    {
+      "row": 11,
+      "col": 9,
+      "counts": {
+        "22": 760
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 9,
+      "counts": {
+        "22": 113
+      },
+      "proportions": {
+        "TROJAN.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 7,
+      "counts": {
+        "23": 333
+      },
+      "proportions": {
+        "TROJAN.GRAFTOR": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 6,
+      "counts": {
+        "23": 98
+      },
+      "proportions": {
+        "TROJAN.GRAFTOR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 5,
+      "counts": {
+        "23": 60
+      },
+      "proportions": {
+        "TROJAN.GRAFTOR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 18,
+      "counts": {
+        "23": 97
+      },
+      "proportions": {
+        "TROJAN.GRAFTOR": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 18,
+      "counts": {
+        "23": 76
+      },
+      "proportions": {
+        "TROJAN.GRAFTOR": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 19,
+      "counts": {
+        "23": 29
+      },
+      "proportions": {
+        "TROJAN.GRAFTOR": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 11,
+      "counts": {
+        "24": 195
+      },
+      "proportions": {
+        "TROJAN.LECNA": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 12,
+      "counts": {
+        "24": 184
+      },
+      "proportions": {
+        "TROJAN.LECNA": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 13,
+      "counts": {
+        "24": 121
+      },
+      "proportions": {
+        "TROJAN.LECNA": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 12,
+      "counts": {
+        "24": 135
+      },
+      "proportions": {
+        "TROJAN.LECNA": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 13,
+      "counts": {
+        "24": 46
+      },
+      "proportions": {
+        "TROJAN.LECNA": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 15,
+      "counts": {
+        "24": 161
+      },
+      "proportions": {
+        "TROJAN.LECNA": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 14,
+      "counts": {
+        "25": 190
+      },
+      "proportions": {
+        "TROJAN.MACHETE": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 13,
+      "counts": {
+        "25": 120
+      },
+      "proportions": {
+        "TROJAN.MACHETE": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 12,
+      "counts": {
+        "25": 185
+      },
+      "proportions": {
+        "TROJAN.MACHETE": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 4,
+      "counts": {
+        "26": 76
+      },
+      "proportions": {
+        "TROJAN.STRICTOR": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "counts": {
+        "26": 45
+      },
+      "proportions": {
+        "TROJAN.STRICTOR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 4,
+      "counts": {
+        "26": 59
+      },
+      "proportions": {
+        "TROJAN.STRICTOR": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 3,
+      "counts": {
+        "26": 30
+      },
+      "proportions": {
+        "TROJAN.STRICTOR": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 12,
+      "counts": {
+        "26": 29
+      },
+      "proportions": {
+        "TROJAN.STRICTOR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 6,
+      "counts": {
+        "28": 212
+      },
+      "proportions": {
+        "TROJAN.ZBOT": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 19,
+      "counts": {
+        "30": 487
+      },
+      "proportions": {
+        "WEBTOOLBAR.ZANGO": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 5,
+      "counts": {
+        "30": 42
+      },
+      "proportions": {
+        "WEBTOOLBAR.ZANGO": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 3,
+      "counts": {
+        "31": 75,
+        "32": 75
+      },
+      "proportions": {
+        "WORM.AUTOIT": 0.5,
+        "WORM.AUTORUN": 0.5
+      }
+    },
+    {
+      "row": 14,
+      "col": 2,
+      "counts": {
+        "31": 170,
+        "32": 170
+      },
+      "proportions": {
+        "WORM.AUTOIT": 0.5,
+        "WORM.AUTORUN": 0.5
+      }
+    },
+    {
+      "row": 14,
+      "col": 1,
+      "counts": {
+        "31": 285,
+        "32": 285
+      },
+      "proportions": {
+        "WORM.AUTOIT": 0.5,
+        "WORM.AUTORUN": 0.5
+      }
+    },
+    {
+      "row": 13,
+      "col": 1,
+      "counts": {
+        "31": 110,
+        "32": 110
+      },
+      "proportions": {
+        "WORM.AUTOIT": 0.5,
+        "WORM.AUTORUN": 0.5
+      }
+    },
+    {
+      "row": 15,
+      "col": 3,
+      "counts": {
+        "31": 55,
+        "32": 55
+      },
+      "proportions": {
+        "WORM.AUTOIT": 0.5,
+        "WORM.AUTORUN": 0.5
+      }
+    },
+    {
+      "row": 13,
+      "col": 2,
+      "counts": {
+        "31": 80,
+        "32": 80
+      },
+      "proportions": {
+        "WORM.AUTOIT": 0.5,
+        "WORM.AUTORUN": 0.5
+      }
+    },
+    {
+      "row": 15,
+      "col": 0,
+      "counts": {
+        "31": 185,
+        "32": 185
+      },
+      "proportions": {
+        "WORM.AUTOIT": 0.5,
+        "WORM.AUTORUN": 0.5
+      }
+    },
+    {
+      "row": 15,
+      "col": 4,
+      "counts": {
+        "31": 78,
+        "32": 75
+      },
+      "proportions": {
+        "WORM.AUTOIT": 0.5098039215686274,
+        "WORM.AUTORUN": 0.49019607843137253
+      }
+    },
+    {
+      "row": 14,
+      "col": 0,
+      "counts": {
+        "31": 45,
+        "32": 45
+      },
+      "proportions": {
+        "WORM.AUTOIT": 0.5,
+        "WORM.AUTORUN": 0.5
+      }
+    },
+    {
+      "row": 15,
+      "col": 1,
+      "counts": {
+        "31": 85,
+        "32": 85
+      },
+      "proportions": {
+        "WORM.AUTOIT": 0.5,
+        "WORM.AUTORUN": 0.5
+      }
+    },
+    {
+      "row": 14,
+      "col": 4,
+      "counts": {
+        "31": 27,
+        "32": 25
+      },
+      "proportions": {
+        "WORM.AUTOIT": 0.5192307692307693,
+        "WORM.AUTORUN": 0.4807692307692308
+      }
+    },
+    {
+      "row": 15,
+      "col": 2,
+      "counts": {
+        "31": 10,
+        "32": 10
+      },
+      "proportions": {
+        "WORM.AUTOIT": 0.5,
+        "WORM.AUTORUN": 0.5
+      }
+    },
+    {
+      "row": 12,
+      "col": 2,
+      "counts": {
+        "31": 65,
+        "32": 65
+      },
+      "proportions": {
+        "WORM.AUTOIT": 0.5,
+        "WORM.AUTORUN": 0.5
+      }
+    },
+    {
+      "row": 13,
+      "col": 0,
+      "counts": {
+        "31": 10,
+        "32": 10
+      },
+      "proportions": {
+        "WORM.AUTOIT": 0.5,
+        "WORM.AUTORUN": 0.5
+      }
+    },
+    {
+      "row": 13,
+      "col": 3,
+      "counts": {
+        "31": 10,
+        "32": 10
+      },
+      "proportions": {
+        "WORM.AUTOIT": 0.5,
+        "WORM.AUTORUN": 0.5
+      }
+    },
+    {
+      "row": 16,
+      "col": 0,
+      "counts": {
+        "31": 5,
+        "32": 5
+      },
+      "proportions": {
+        "WORM.AUTOIT": 0.5,
+        "WORM.AUTORUN": 0.5
+      }
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "counts": {
+        "31": 86
+      },
+      "proportions": {
+        "WORM.AUTOIT": 1.0
+      }
+    },
+    {
+      "row": 16,
+      "col": 2,
+      "counts": {
+        "31": 122
+      },
+      "proportions": {
+        "WORM.AUTOIT": 1.0
+      }
+    }
+  ]
+}

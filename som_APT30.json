@@ -1,0 +1,4018 @@
+{
+  "title": "SOM neuron composition by APT30",
+  "som_size": 20,
+  "neurons": [
+    {
+      "row": 16,
+      "col": 9,
+      "counts": {
+        "0": 425
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 9,
+      "counts": {
+        "0": 861
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 8,
+      "counts": {
+        "0": 620
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 7,
+      "counts": {
+        "0": 111
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 10,
+      "counts": {
+        "0": 50
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 9,
+      "counts": {
+        "0": 280
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 10,
+      "counts": {
+        "0": 15
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 8,
+      "counts": {
+        "0": 80
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 17,
+      "counts": {
+        "0": 12
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 14,
+      "counts": {
+        "0": 69
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 16,
+      "col": 8,
+      "counts": {
+        "0": 31
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 8,
+      "counts": {
+        "0": 10
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 18,
+      "counts": {
+        "0": 2640
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 19,
+      "counts": {
+        "0": 365
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 18,
+      "counts": {
+        "0": 335
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 16,
+      "counts": {
+        "0": 185
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 17,
+      "counts": {
+        "0": 365
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 5,
+      "col": 19,
+      "counts": {
+        "0": 89
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 18,
+      "counts": {
+        "0": 375
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 15,
+      "counts": {
+        "0": 368
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 19,
+      "counts": {
+        "0": 166
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 19,
+      "counts": {
+        "0": 540
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 15,
+      "counts": {
+        "0": 145
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 16,
+      "counts": {
+        "0": 202
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 5,
+      "col": 17,
+      "counts": {
+        "0": 185
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 18,
+      "counts": {
+        "0": 270
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 14,
+      "counts": {
+        "0": 105
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 17,
+      "counts": {
+        "0": 143
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "counts": {
+        "0": 32
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 4,
+      "counts": {
+        "0": 59
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 17,
+      "counts": {
+        "0": 85
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 18,
+      "counts": {
+        "0": 90
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 8,
+      "counts": {
+        "0": 164
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 16,
+      "counts": {
+        "0": 222
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 17,
+      "counts": {
+        "0": 50
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 13,
+      "counts": {
+        "0": 110
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 5,
+      "col": 18,
+      "counts": {
+        "0": 84
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 16,
+      "counts": {
+        "0": 80
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 19,
+      "counts": {
+        "0": 86
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 7,
+      "counts": {
+        "0": 210
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 12,
+      "counts": {
+        "0": 16,
+        "1": 1
+      },
+      "proportions": {
+        "ADWARE.GATOR": 0.9411764705882353,
+        "ADWARE.GENERIC": 0.058823529411764705
+      }
+    },
+    {
+      "row": 1,
+      "col": 19,
+      "counts": {
+        "0": 75
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 14,
+      "counts": {
+        "0": 20
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 16,
+      "col": 19,
+      "counts": {
+        "0": 40
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 19,
+      "counts": {
+        "0": 722
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 16,
+      "counts": {
+        "0": 69
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "counts": {
+        "0": 107
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 6,
+      "counts": {
+        "0": 82
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 19,
+      "counts": {
+        "0": 17
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 0,
+      "counts": {
+        "0": 76
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 17,
+      "counts": {
+        "0": 125
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 6,
+      "counts": {
+        "0": 110
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 15,
+      "counts": {
+        "0": 100
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "counts": {
+        "0": 38
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 8,
+      "counts": {
+        "0": 1934
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 9,
+      "counts": {
+        "0": 329
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 6,
+      "counts": {
+        "0": 167
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 5,
+      "counts": {
+        "0": 158
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 8,
+      "counts": {
+        "0": 202
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 7,
+      "counts": {
+        "0": 1052
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 9,
+      "counts": {
+        "0": 496
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 9,
+      "counts": {
+        "0": 783
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 13,
+      "counts": {
+        "0": 73
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 11,
+      "counts": {
+        "0": 172
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 4,
+      "counts": {
+        "0": 95
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 8,
+      "counts": {
+        "0": 360
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 10,
+      "counts": {
+        "0": 288
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 13,
+      "counts": {
+        "0": 23
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 7,
+      "counts": {
+        "0": 124
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 12,
+      "counts": {
+        "0": 197
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 6,
+      "counts": {
+        "0": 100
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 10,
+      "counts": {
+        "0": 513
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 7,
+      "counts": {
+        "0": 287
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 9,
+      "counts": {
+        "0": 307
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 10,
+      "counts": {
+        "0": 169
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 9,
+      "counts": {
+        "0": 40
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 6,
+      "counts": {
+        "0": 108
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 12,
+      "counts": {
+        "0": 95
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 11,
+      "counts": {
+        "0": 109
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 7,
+      "counts": {
+        "0": 106
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 8,
+      "counts": {
+        "0": 165,
+        "1": 2
+      },
+      "proportions": {
+        "ADWARE.GATOR": 0.9880239520958084,
+        "ADWARE.GENERIC": 0.011976047904191617
+      }
+    },
+    {
+      "row": 2,
+      "col": 19,
+      "counts": {
+        "0": 37
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 11,
+      "counts": {
+        "0": 111
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "counts": {
+        "0": 83
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 12,
+      "counts": {
+        "0": 45
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 10,
+      "counts": {
+        "0": 93
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 4,
+      "counts": {
+        "0": 65
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 11,
+      "counts": {
+        "0": 20
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 14,
+      "counts": {
+        "0": 181
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 10,
+      "counts": {
+        "0": 47
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 5,
+      "counts": {
+        "0": 122
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 1,
+      "counts": {
+        "0": 122
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 1,
+      "counts": {
+        "0": 522
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 3,
+      "counts": {
+        "0": 999
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 2,
+      "counts": {
+        "0": 423
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 5,
+      "col": 0,
+      "counts": {
+        "0": 894
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 1,
+      "counts": {
+        "0": 132
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 5,
+      "col": 3,
+      "counts": {
+        "0": 551
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 3,
+      "counts": {
+        "0": 204
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "counts": {
+        "0": 714
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 0,
+      "counts": {
+        "0": 342
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "counts": {
+        "0": 1872
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 5,
+      "col": 4,
+      "counts": {
+        "0": 297
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "counts": {
+        "0": 144
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 1,
+      "counts": {
+        "0": 184
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 1,
+      "counts": {
+        "0": 156
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "counts": {
+        "0": 120
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 3,
+      "counts": {
+        "0": 177
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 3,
+      "counts": {
+        "0": 244
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 5,
+      "col": 2,
+      "counts": {
+        "0": 93
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 5,
+      "col": 1,
+      "counts": {
+        "0": 34
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 5,
+      "col": 5,
+      "counts": {
+        "0": 207
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 0,
+      "counts": {
+        "0": 187
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 0,
+      "counts": {
+        "0": 174
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 0,
+      "counts": {
+        "0": 75
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "counts": {
+        "0": 81
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 2,
+      "counts": {
+        "0": 183
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 0,
+      "counts": {
+        "0": 26
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 16,
+      "counts": {
+        "0": 52
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 2,
+      "counts": {
+        "0": 684
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 3,
+      "counts": {
+        "0": 650
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 1,
+      "col": 0,
+      "counts": {
+        "0": 18
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "counts": {
+        "0": 475
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "counts": {
+        "0": 261
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "counts": {
+        "0": 105
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "counts": {
+        "0": 462
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 2,
+      "counts": {
+        "0": 86
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "counts": {
+        "0": 1089
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 0,
+      "counts": {
+        "0": 348
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "counts": {
+        "0": 147
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "counts": {
+        "0": 36
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "counts": {
+        "0": 21
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 1,
+      "counts": {
+        "0": 87
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 0,
+      "counts": {
+        "0": 29
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 1,
+      "counts": {
+        "0": 708
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "counts": {
+        "0": 1120
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 0,
+      "col": 3,
+      "counts": {
+        "0": 42
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "counts": {
+        "0": 236
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 14,
+      "counts": {
+        "0": 7
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 16,
+      "col": 12,
+      "counts": {
+        "0": 295
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 11,
+      "counts": {
+        "0": 408
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 10,
+      "counts": {
+        "0": 350
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 11,
+      "counts": {
+        "0": 182
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 12,
+      "counts": {
+        "0": 39
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 7,
+      "counts": {
+        "0": 261
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 11,
+      "counts": {
+        "0": 250
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 16,
+      "col": 14,
+      "counts": {
+        "0": 40
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 12,
+      "counts": {
+        "0": 297
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 10,
+      "counts": {
+        "0": 106
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 14,
+      "counts": {
+        "0": 314
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 18,
+      "counts": {
+        "0": 291
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 18,
+      "counts": {
+        "0": 553
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 16,
+      "counts": {
+        "0": 940
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 19,
+      "counts": {
+        "0": 313
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 17,
+      "counts": {
+        "0": 361
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 16,
+      "counts": {
+        "0": 469
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 19,
+      "counts": {
+        "0": 85
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 17,
+      "counts": {
+        "0": 42
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 17,
+      "counts": {
+        "0": 102
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 16,
+      "col": 16,
+      "counts": {
+        "0": 34
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 11,
+      "counts": {
+        "0": 83
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 11,
+      "counts": {
+        "0": 460
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 0,
+      "counts": {
+        "0": 492
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 0,
+      "counts": {
+        "0": 295
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 15,
+      "counts": {
+        "0": 212
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 1,
+      "counts": {
+        "0": 238
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 16,
+      "col": 5,
+      "counts": {
+        "0": 62
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 5,
+      "counts": {
+        "0": 447
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 12,
+      "counts": {
+        "0": 52
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 6,
+      "counts": {
+        "0": 57
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 13,
+      "counts": {
+        "0": 140
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 15,
+      "counts": {
+        "0": 25
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 16,
+      "col": 15,
+      "counts": {
+        "0": 113
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "counts": {
+        "0": 20
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 0,
+      "counts": {
+        "0": 31
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 4,
+      "counts": {
+        "0": 100
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "counts": {
+        "0": 58
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 18,
+      "counts": {
+        "0": 379
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 15,
+      "counts": {
+        "0": 178
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 16,
+      "counts": {
+        "0": 123
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 16,
+      "counts": {
+        "0": 780
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 17,
+      "counts": {
+        "0": 297
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 16,
+      "col": 4,
+      "counts": {
+        "0": 23
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 17,
+      "counts": {
+        "0": 354
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 17,
+      "counts": {
+        "0": 193
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 15,
+      "counts": {
+        "0": 301
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 16,
+      "counts": {
+        "0": 407
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 15,
+      "counts": {
+        "0": 32
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 16,
+      "counts": {
+        "0": 62
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 3,
+      "counts": {
+        "0": 23
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 6,
+      "counts": {
+        "0": 30
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 13,
+      "counts": {
+        "0": 112
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 5,
+      "col": 11,
+      "counts": {
+        "0": 365
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 6,
+      "counts": {
+        "0": 937,
+        "1": 72
+      },
+      "proportions": {
+        "ADWARE.GATOR": 0.9286422200198216,
+        "ADWARE.GENERIC": 0.07135777998017839
+      }
+    },
+    {
+      "row": 16,
+      "col": 6,
+      "counts": {
+        "0": 32
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 1,
+      "counts": {
+        "0": 25
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 13,
+      "counts": {
+        "0": 200
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 11,
+      "counts": {
+        "0": 8,
+        "1": 39
+      },
+      "proportions": {
+        "ADWARE.GATOR": 0.1702127659574468,
+        "ADWARE.GENERIC": 0.8297872340425532
+      }
+    },
+    {
+      "row": 5,
+      "col": 16,
+      "counts": {
+        "0": 24,
+        "1": 25
+      },
+      "proportions": {
+        "ADWARE.GATOR": 0.4897959183673469,
+        "ADWARE.GENERIC": 0.5102040816326531
+      }
+    },
+    {
+      "row": 11,
+      "col": 7,
+      "counts": {
+        "0": 97
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 11,
+      "counts": {
+        "0": 136,
+        "1": 1
+      },
+      "proportions": {
+        "ADWARE.GATOR": 0.9927007299270073,
+        "ADWARE.GENERIC": 0.0072992700729927005
+      }
+    },
+    {
+      "row": 15,
+      "col": 12,
+      "counts": {
+        "0": 126
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 4,
+      "counts": {
+        "0": 980
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 2,
+      "counts": {
+        "0": 214
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 5,
+      "counts": {
+        "0": 520
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 5,
+      "counts": {
+        "0": 140
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 12,
+      "counts": {
+        "0": 30
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 12,
+      "counts": {
+        "0": 63
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 4,
+      "counts": {
+        "0": 166
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 3,
+      "counts": {
+        "0": 69
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 5,
+      "counts": {
+        "0": 281
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 15,
+      "counts": {
+        "0": 41
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 4,
+      "counts": {
+        "0": 240
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 3,
+      "counts": {
+        "0": 102
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 4,
+      "counts": {
+        "0": 240
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 3,
+      "counts": {
+        "0": 90
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 2,
+      "counts": {
+        "0": 50
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 6,
+      "counts": {
+        "0": 86
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "counts": {
+        "0": 13
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "counts": {
+        "0": 232
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 2,
+      "counts": {
+        "0": 75
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 18,
+      "counts": {
+        "0": 47
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 13,
+      "counts": {
+        "0": 96
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 5,
+      "counts": {
+        "0": 84
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 16,
+      "counts": {
+        "0": 17
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 16,
+      "col": 10,
+      "counts": {
+        "0": 220
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 8,
+      "counts": {
+        "0": 34,
+        "1": 5
+      },
+      "proportions": {
+        "ADWARE.GATOR": 0.8717948717948718,
+        "ADWARE.GENERIC": 0.1282051282051282
+      }
+    },
+    {
+      "row": 8,
+      "col": 3,
+      "counts": {
+        "0": 435
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 15,
+      "counts": {
+        "0": 93
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 5,
+      "col": 12,
+      "counts": {
+        "0": 123,
+        "1": 1
+      },
+      "proportions": {
+        "ADWARE.GATOR": 0.9919354838709677,
+        "ADWARE.GENERIC": 0.008064516129032258
+      }
+    },
+    {
+      "row": 10,
+      "col": 5,
+      "counts": {
+        "0": 84
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 12,
+      "counts": {
+        "0": 75
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 6,
+      "counts": {
+        "0": 122
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 14,
+      "counts": {
+        "0": 31
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 9,
+      "counts": {
+        "0": 63
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 16,
+      "col": 7,
+      "counts": {
+        "0": 26
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 7,
+      "counts": {
+        "0": 170,
+        "1": 5
+      },
+      "proportions": {
+        "ADWARE.GATOR": 0.9714285714285714,
+        "ADWARE.GENERIC": 0.02857142857142857
+      }
+    },
+    {
+      "row": 16,
+      "col": 3,
+      "counts": {
+        "0": 35
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 14,
+      "counts": {
+        "0": 75
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 15,
+      "counts": {
+        "0": 160
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 12,
+      "counts": {
+        "0": 82
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 14,
+      "counts": {
+        "0": 664
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 13,
+      "counts": {
+        "0": 192
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 14,
+      "counts": {
+        "0": 168
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 13,
+      "counts": {
+        "0": 258
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 13,
+      "counts": {
+        "0": 44
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 17,
+      "counts": {
+        "0": 81
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "counts": {
+        "0": 56,
+        "1": 2
+      },
+      "proportions": {
+        "ADWARE.GATOR": 0.9655172413793104,
+        "ADWARE.GENERIC": 0.034482758620689655
+      }
+    },
+    {
+      "row": 14,
+      "col": 13,
+      "counts": {
+        "0": 430
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 12,
+      "counts": {
+        "0": 385
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 13,
+      "counts": {
+        "0": 125
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 7,
+      "counts": {
+        "0": 173
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 6,
+      "counts": {
+        "0": 52
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 5,
+      "counts": {
+        "0": 17
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 16,
+      "col": 17,
+      "counts": {
+        "0": 9
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 16,
+      "col": 11,
+      "counts": {
+        "0": 121
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 7,
+      "counts": {
+        "0": 84
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 0,
+      "counts": {
+        "0": 316
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 2,
+      "counts": {
+        "0": 102
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 18,
+      "counts": {
+        "0": 54
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 18,
+      "counts": {
+        "0": 14
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 16,
+      "col": 13,
+      "counts": {
+        "0": 184
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 17,
+      "counts": {
+        "0": 80
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 1,
+      "counts": {
+        "0": 193
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 0,
+      "counts": {
+        "0": 594
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 10,
+      "counts": {
+        "0": 140
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "counts": {
+        "0": 54
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 0,
+      "counts": {
+        "0": 50
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 1,
+      "counts": {
+        "0": 62
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 17,
+      "col": 1,
+      "counts": {
+        "0": 166
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 2,
+      "counts": {
+        "0": 55
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 5,
+      "counts": {
+        "0": 295
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 12,
+      "counts": {
+        "0": 94
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 1,
+      "counts": {
+        "0": 275
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 18,
+      "counts": {
+        "0": 63
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 16,
+      "col": 18,
+      "counts": {
+        "0": 58
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 10,
+      "counts": {
+        "0": 277
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 11,
+      "counts": {
+        "0": 426
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 17,
+      "counts": {
+        "0": 55
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 19,
+      "counts": {
+        "0": 44
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 14,
+      "counts": {
+        "0": 41
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 15,
+      "counts": {
+        "0": 37
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 2,
+      "counts": {
+        "0": 114
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 18,
+      "counts": {
+        "0": 38
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 14,
+      "counts": {
+        "0": 159
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 3,
+      "counts": {
+        "0": 508
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "counts": {
+        "0": 206
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 6,
+      "counts": {
+        "0": 48
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 10,
+      "counts": {
+        "0": 114
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 10,
+      "counts": {
+        "0": 49
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 8,
+      "counts": {
+        "0": 48
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 7,
+      "counts": {
+        "0": 338
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 8,
+      "counts": {
+        "0": 17
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 11,
+      "counts": {
+        "0": 24
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 16,
+      "counts": {
+        "0": 22
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 1,
+      "counts": {
+        "0": 32
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 19,
+      "counts": {
+        "0": 49
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 7,
+      "counts": {
+        "0": 73
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "counts": {
+        "0": 47
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 3,
+      "counts": {
+        "0": 21
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 14,
+      "counts": {
+        "0": 35
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 9,
+      "counts": {
+        "0": 23
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 6,
+      "counts": {
+        "0": 43
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "counts": {
+        "0": 30
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 11,
+      "counts": {
+        "0": 43
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 19,
+      "counts": {
+        "0": 115
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 14,
+      "counts": {
+        "0": 24
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 5,
+      "col": 15,
+      "counts": {
+        "0": 86
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "counts": {
+        "0": 72
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 10,
+      "counts": {
+        "0": 26,
+        "1": 95
+      },
+      "proportions": {
+        "ADWARE.GATOR": 0.21487603305785125,
+        "ADWARE.GENERIC": 0.7851239669421488
+      }
+    },
+    {
+      "row": 18,
+      "col": 8,
+      "counts": {
+        "0": 142
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 4,
+      "counts": {
+        "0": 128
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 17,
+      "counts": {
+        "0": 505
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 15,
+      "counts": {
+        "0": 1350
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 14,
+      "counts": {
+        "0": 1027
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 16,
+      "counts": {
+        "0": 230
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 13,
+      "counts": {
+        "0": 94
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 15,
+      "counts": {
+        "0": 197
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 14,
+      "counts": {
+        "0": 138
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 16,
+      "counts": {
+        "0": 44
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 15,
+      "counts": {
+        "0": 89
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 15,
+      "counts": {
+        "0": 104
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 17,
+      "counts": {
+        "0": 33
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 18,
+      "counts": {
+        "0": 70
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 17,
+      "counts": {
+        "0": 31
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 11,
+      "counts": {
+        "0": 50
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 14,
+      "counts": {
+        "0": 3
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 2,
+      "counts": {
+        "0": 63
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 5,
+      "col": 13,
+      "counts": {
+        "0": 136
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 16,
+      "counts": {
+        "0": 61
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 16,
+      "counts": {
+        "0": 16
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 19,
+      "counts": {
+        "0": 108
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 18,
+      "counts": {
+        "0": 91
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 19,
+      "counts": {
+        "0": 9
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 19,
+      "counts": {
+        "0": 23
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 9,
+      "counts": {
+        "0": 386
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 8,
+      "counts": {
+        "0": 111
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "counts": {
+        "0": 36
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 13,
+      "counts": {
+        "0": 109
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 10,
+      "counts": {
+        "0": 363
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 8,
+      "counts": {
+        "0": 58
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 11,
+      "counts": {
+        "0": 37
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 10,
+      "counts": {
+        "0": 29
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 18,
+      "counts": {
+        "0": 49
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 5,
+      "col": 14,
+      "counts": {
+        "0": 17
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 9,
+      "counts": {
+        "0": 116
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 13,
+      "counts": {
+        "0": 31
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 7,
+      "counts": {
+        "0": 55
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 9,
+      "counts": {
+        "0": 69
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 7,
+      "counts": {
+        "0": 67
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 15,
+      "counts": {
+        "0": 1
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 16,
+      "col": 1,
+      "counts": {
+        "0": 2
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 11,
+      "counts": {
+        "0": 110
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 19,
+      "col": 9,
+      "counts": {
+        "0": 66
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 9,
+      "counts": {
+        "0": 12
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 5,
+      "counts": {
+        "0": 74
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 9,
+      "counts": {
+        "0": 760
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 18,
+      "col": 9,
+      "counts": {
+        "0": 113
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 7,
+      "counts": {
+        "0": 333
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 10,
+      "col": 6,
+      "counts": {
+        "0": 98
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 5,
+      "counts": {
+        "0": 60
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 18,
+      "counts": {
+        "0": 97
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 18,
+      "counts": {
+        "0": 76
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 11,
+      "col": 19,
+      "counts": {
+        "0": 29
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 11,
+      "counts": {
+        "1": 195
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 12,
+      "counts": {
+        "1": 184
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 13,
+      "counts": {
+        "1": 121
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 12,
+      "counts": {
+        "1": 135
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 13,
+      "counts": {
+        "1": 46
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 6,
+      "col": 15,
+      "counts": {
+        "1": 161
+      },
+      "proportions": {
+        "ADWARE.GENERIC": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 14,
+      "counts": {
+        "0": 190
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 3,
+      "col": 13,
+      "counts": {
+        "0": 120
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 4,
+      "col": 12,
+      "counts": {
+        "0": 185
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 4,
+      "counts": {
+        "0": 76
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "counts": {
+        "0": 45
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 4,
+      "counts": {
+        "0": 59
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 3,
+      "counts": {
+        "0": 30
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 12,
+      "counts": {
+        "0": 29
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 6,
+      "counts": {
+        "0": 212
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 9,
+      "col": 19,
+      "counts": {
+        "0": 487
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 8,
+      "col": 5,
+      "counts": {
+        "0": 42
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 3,
+      "counts": {
+        "0": 150
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 2,
+      "counts": {
+        "0": 340
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 1,
+      "counts": {
+        "0": 570
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 1,
+      "counts": {
+        "0": 220
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 3,
+      "counts": {
+        "0": 110
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 2,
+      "counts": {
+        "0": 160
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 0,
+      "counts": {
+        "0": 370
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 4,
+      "counts": {
+        "0": 153
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 0,
+      "counts": {
+        "0": 90
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 1,
+      "counts": {
+        "0": 170
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 14,
+      "col": 4,
+      "counts": {
+        "0": 52
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 15,
+      "col": 2,
+      "counts": {
+        "0": 20
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 12,
+      "col": 2,
+      "counts": {
+        "0": 130
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 0,
+      "counts": {
+        "0": 20
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 13,
+      "col": 3,
+      "counts": {
+        "0": 20
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 16,
+      "col": 0,
+      "counts": {
+        "0": 10
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "counts": {
+        "0": 86
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    },
+    {
+      "row": 16,
+      "col": 2,
+      "counts": {
+        "0": 122
+      },
+      "proportions": {
+        "ADWARE.GATOR": 1.0
+      }
+    }
+  ]
+}
